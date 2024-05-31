@@ -1,0 +1,1685 @@
+{
+    "hotelDetail": [
+        {
+            "id": 1,
+            "title": "Yogyakarta Marriott Hotel",
+            "location": "Jalan Ringroad Utara, 55283 Yogyakarta, Indonesia",
+            "description": "Boasting a fitness centre, Yogyakarta Marriott Hotel is set in Yogyakarta and is 3.5 km from Tugu Monument. 5 km from Malioboro Street, the property is also 5 km away from Malioboro Mall. The property is close to popular attractions like Fort Vredeburg, Scientific Park and Sultan's Palace, all reachable within 6 km.\n\nAll guest rooms in the hotel are equipped with a flat-screen TV. With a private bathroom fitted with a shower and free toiletries, certain rooms at Yogyakarta Marriott Hotel also provide guests with pool view. Guest rooms will provide guests with a desk and a kettle.\n\nYogyakarta Presidential Palace is 6 km from the accommodation. The nearest airport is Adisucipto Airport, 5 km from the property.",
+            "rating": 9.1,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Airport shuttle",
+                "Spa and wellness centre",
+                "Fitness centre",
+                "Room service",
+                "Private parking",
+                "Free WiFi",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Guest room, 1 King, City view",
+                    "Guest room, 2 Double, City view",
+                    "Guest room, 2 Double, Pool view",
+                    "Guest room, 1 King, Pool view",
+                    "M Club lounge access, Guest room, 1 King, City view",
+                    "M Club lounge access, Guest room, 2 Double, City view",
+                    "M Club lounge access, Guest room, 1 King, Pool view",
+                    "M Club lounge access, Guest room, 2 Double, Pool view",
+                    "One-Bedroom Junior King Suite - M Club Lounge Access",
+                    "M Club lounge access, 1 Bed Room Executive Suite, 1 King, Pool view"
+                ],
+                "room_price": [
+                    1633500,
+                    1851300,
+                    1633500,
+                    1851300,
+                    1815000,
+                    2214300,
+                    1815000,
+                    2032800,
+                    2178000,
+                    2178000
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467524871.jpg?k=23f4ddf9e9e1bc2d6ce41cfb2b1451b39ad69b1d25ce9b76e5e913f8361103dd&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/469232127.jpg?k=60cfc7c1b8fcfd641f63c4e155894c3987fd13dd5586c7dfcc9114f80b4ae89a&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/469232110.jpg?k=50fd7d6490066e2a7f506527bb856cab0808137a9e70b3180bbe9dd8945bfcd3&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/469232136.jpg?k=c9bf25d1eec49759fde3bbe4701a81f57951a1a76dfab27f2ba20efcfb7bf682&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/469232180.jpg?k=beaa8224bbe3b6ba9afd57343778055bc778841b23fbab442d34151436c35406&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/469232213.jpg?k=d75236cfa031a161bc75c417643d95f487f36ea6fa1cb2cea3c498fe4873aee6&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/469232158.jpg?k=cab107310c52a93d7b804f10e3ae45699f728c02baf74e60e28c9eea7a54f3d2&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/469232168.jpg?k=51b9a15dfaa3fa0cf7887ec8304ec1b1432c8f1706b178bf47c394d2ddb99f75&o=&hp=1"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Hyatt Regency Yogyakarta",
+            "location": "Jalan Palagan Tentara Pelajar, 55581 Yogyakarta, Indonesia",
+            "description": "Set in 22 hectares of landscaped tropical gardens, Hyatt Regency Yogyakarta boasts a range of facilities including a golf course, multi-level swimming pool, as well as spa and wellness centre. The property also offers free WiFi access.\n\nSun-filled afternoons can be spent by the large lagoon pool, which boasts a waterfall, 70-metre slide and a whirlpool. A tennis courts are available for active workouts.\n\nFeaturing garden views from over-sized windows, spacious rooms come with cable TV, a tea/coffee maker and an armchair. Marble bathrooms have a bathtub and bathrobes.\n\nKemangi Bistro serves Asian and Western dishes while the Regency Club Lounge serves cocktails and afternoon tea at 17:30 - 19:30 WIB.\n\nYogyakarta Hyatt Regency is a 20-minute drive from the city center. It is a 90-minute drive from New Yogyakarta International Airport and about 30 Minutes from Jogja Convention Centre.",
+            "rating": 8.9,
+            "most_popular_facilities": [
+                "2 swimming pools",
+                "Non-smoking rooms",
+                "Airport shuttle",
+                "Spa and wellness centre",
+                "Fitness centre",
+                "Room service",
+                "Free parking",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Fabulous breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "King Room",
+                    "Twin Room",
+                    "King Room with Golf View",
+                    "Deluxe Twin Room",
+                    "Deluxe King Room",
+                    "Twin Room - Club Access",
+                    "King Room - Club Access",
+                    "Twin Room with Terrace - Club Access",
+                    "King Room with Terrace and Club Access"
+                ],
+                "room_price": [
+                    1360072,
+                    1457220,
+                    2040109,
+                    2234405,
+                    1360072,
+                    1457220,
+                    2040109,
+                    2234405,
+                    1554368
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/486467650.jpg?k=8d4871099d78988a20e4ffa2b58f9f8a332a89c438ad1cfb88751838165343c4&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/471358581.jpg?k=85dc1089abed96bc8310558c4b25af46d2dc465357282f494ec022c39975e540&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/110319268.jpg?k=4e6746b19726b3be0cb2ae06c8c8608040fec56d5536f862b00c82b6e7c51ed1&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/484522615.jpg?k=af675ebd4122f85030de8d35c8e680a7a684e1977bb538a81c3720817bc23171&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/484522606.jpg?k=401ff5bbb599007e72c42432b7fd7af75a2859f290bcb2b57db74f50ac3498af&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/484522638.jpg?k=528b56b91eac0f722af1574131e072983d9901dd60f8aa982e46cc89e42bbbed&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/484522584.jpg?k=7c960027fb9d160ec7c3de2d1b783c150ef9b89f33696a3f52abd3648934df02&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/484522587.jpg?k=02fa7a52ce34444c941bec037d4e27f07f401d5ae9e049bbe1b0b8f64f4779c1&o=&hp=1"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Melia Purosani Yogyakarta",
+            "location": "Jalan Suryotomo no. 31, Gondomanan, 55122 Yogyakarta, Indonesia",
+            "description": "Situated beside Malioboro Shopping Centre in the heart of Yogyakarta, the 5-star Melia Hotel features a freeform outdoor pool and a spa. Spacious rooms provide cable TV channels. Free parking is offered on site, while free Wi-Fi is accessible in all areas.\n\nEach room has a minibar and tea and coffee-making facilities. Some have a balcony with pool, garden or city views. Each also has a sofa and an en suite bathroom with a bathtub. Some rooms have lounge access and benefits.\n\nFive dining options await guests in the hotel. Light snacks can be enjoyed at the open-air Parangsari Poolside Restaurant while Ching San Chinese Restaurant specialises in Cantonese and Szechuan dishes. Drinks can be enjoyed at Soka Lobby Lounge and Pub Med.\n\nGuests can enjoy an energising work out in the fitness centre and relax at Yhi Wellness spa with a body treatment. A children\u2019s playground is available for little ones.\n\nMelia Purosani Yogyakarta is 900 metres from The Sultan\u2019s Palace. The Temple of Borobudur, a UNESCO World Heritage Site, is 42 km away.\n\nEnjoy a convenient 1 hour 20 minutes drive from YIA (Yogyakarta International Airport) or simply take the 40 minutes Train Shuttle ride from the airport to Tugu Train Station - Train to the airport available based on the official KAI schedule. Melia Purosani Yogyakarta located only 1.8 km or just a few minutes away from the Tugu Train Station. It took only 12 minutes drive or 10 minutes by Becak or enjoy a fun 20 minutes walk passing through the famous Malioboro Street.",
+            "rating": 8.4,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Airport shuttle",
+                "Spa and wellness centre",
+                "Fitness centre",
+                "Room service",
+                "Free parking",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Fabulous breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Deluxe Double or Twin Room",
+                    "Deluxe Double or Twin Room",
+                    "Deluxe Double or Twin Room with Pool View",
+                    "Premium Double or Twin Room",
+                    "The Level Guestroom",
+                    "The Level Junior Suite",
+                    "The Level Suite",
+                    "Family Suite",
+                    "Family Connecting Room"
+                ],
+                "room_price": [
+                    1294797,
+                    1436500,
+                    1615000,
+                    2167500,
+                    2188750,
+                    1861500,
+                    2125000,
+                    2698750,
+                    1436500
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354912696.jpg?k=751970a239d37ff827d6e015fa7d775fa19e4a9e10b6cf6967bb9b124d170e35&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/190878102.jpg?k=da9bb7f38d2eb35222e76ddcbad89779084386af655e18c2ddb19c5da83e47e4&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/408487055.jpg?k=9d6534ffa5a3dcef1e8790278237ef9ab0666b18947fe9016cc4af5ac66b7aac&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/190878158.jpg?k=23beaa3b6972874a2731f7157f2ccd01f5353d7025f2ce12d36a482d12d75411&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/113065536.jpg?k=b495705414638ca4009247fbf6ece4fb6603b9f221e4d0b7aa82cdc207dc4dbc&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/350781488.jpg?k=9df8849f6cd9a07700ccb30a970298ad9c59b50f4015a2845248f1e508c34863&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/350782779.jpg?k=6b91ddcf5c73ee9fdf9c1f76b05a6bd71860b5096e21f9f0945a04af267dba71&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/328320579.jpg?k=79ffacabf04be4457a763c3ec9f2a5963e42a2a5366e86355c2ce421ed3de6c2&o=&hp=1"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Jambuluwuk Malioboro Hotel Yogyakarta",
+            "location": "Jl. Gajah Mada No. 67  , Pakualaman, 55112 Yogyakarta, Indonesia",
+            "description": "Located a 3-minute drive from Lempuyangan Train Station, Jambuluwuk Maliboro Hotel Yogyakarta features an outdoor pool and fitness centre. Free WiFi is provided in the entire hotel. A children\u2019s playground is available.\n\nJambuluwuk Maliboro Hotel Yogyakarta is a 10-minute walk from Malioboro Street, Keraton and the traditional Beringharjo Market. Yogyakarta International Airport is 42.1 km away.\n\nModern rooms are fitted with a flat-screen cable TV, personal safe and tea/coffee-making facilities. En suite bathrooms come with toiletries and a hairdryer.\n\nThe hotel offers a library and karaoke facilities. Massage services are available on request. The hotel also has a business centre.\n\nJambuluwuk Coffee Shop and Batik Lounge is open for breakfast, lunch and dinner. It serves Indonesian and international food.",
+            "rating": 7.9,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Airport shuttle",
+                "Spa and wellness centre",
+                "Fitness centre",
+                "Room service",
+                "Free parking",
+                "Free WiFi",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Superior Double or Twin Room",
+                    "Deluxe Double or Twin Room",
+                    "Deluxe Premier Room",
+                    "King Room",
+                    "Junior Suite",
+                    "Jambuluwuk Suite",
+                    "Deluxe Twin Room with Extrabed",
+                    "Gajah Mada Suite"
+                ],
+                "room_price": [
+                    860061,
+                    1076109,
+                    1129915,
+                    1076109,
+                    1292158,
+                    1356766,
+                    2156357,
+                    2264175
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/105925471.jpg?k=9b163b75a92d217ccba0f0047598e3bd91c92f7f67ea933c0db531a525bab6de&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/109800539.jpg?k=8ee509ccfc9942b384ff01245b8854604a1eeb9be26a26115f7575a3718aec8d&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/261337463.jpg?k=367bbf23660dbf4a0935bc112992e7a0541c624a3ab759b26cd136dac7ed101f&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/261337451.jpg?k=e4156f2ce128e678c709190db1fe6333dd2be38f780aa7e9dcd93a5928f6ece2&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/109791172.jpg?k=52f29b0cfd389e19f5f8030e830c1c6e8c73c7b8a9f9555a5e4e9e07227a3f08&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/109801793.jpg?k=de1b949a7a284f2f218989dad485dd9e382b88212cbcb4096e165e007d122a22&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/423563018.jpg?k=24cf6b0f76da49784699dc89c953c36dede625c52fd44597f7e926b4ff405b6e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/421072562.jpg?k=6f2540348052685ab64a519958c7369731106ca334a1f5daad05fb99f6399da0&o=&hp=1"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Grand Mercure Yogyakarta Adi Sucipto",
+            "location": "Jalan Laksda Adi Sucipto No 80 Sleman, Gondokusuman, 55281 Yogyakarta, Indonesia",
+            "description": "Offering an outdoor pool and views of Mount Merapi, Grand Mercure Yogyakarta Adi Sucipto is located in Yogyakarta. Operating a 24-hour front desk, the hotel houses a spa centre and a fitness centre. Free WiFi is accessible in all areas and free shuttle to Malioboro Street is provided upon request.\n\nRooms at the hotel are equipped with air conditioning, a minibar and a flat-screen TV with cable channels. Every room has a private bathroom with a shower, a hairdryer and free toiletries.\n\nGuests can enjoy daily buffet breakfast with a selection of Continental, American and traditional Javanese specialties. Located by the pool with semi-outdoor seating, the on-site Purple Restaurant is also open for lunch and dinner.\n\nTugu Monument is 1.9 km  from Grand Mercure Yogyakarta , while Malioboro Street is 3.1 km from the property. Adisucipto Airport is 4 km away.",
+            "rating": 7.5,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Airport shuttle",
+                "Spa and wellness centre",
+                "Fitness centre",
+                "Room service",
+                "Free WiFi",
+                "Free parking",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Superior King Room",
+                    "Superior Twin Room",
+                    "Premium Superior King Room",
+                    "Premium Superior Twin Room",
+                    "Premium Superior King Room with Balcony",
+                    "Deluxe King Room",
+                    "Deluxe Twin Room",
+                    "Premium Deluxe King Room",
+                    "Executive King Room",
+                    "Deluxe King Suite"
+                ],
+                "room_price": [
+                    900000,
+                    1000000,
+                    1049999,
+                    1149999,
+                    975000,
+                    1074999,
+                    900000,
+                    1000000,
+                    1049999,
+                    1149999
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365102252.jpg?k=840b7f0f7f8e7abe7d79844de4ee99171edc52cd788f9d5b7e934643a380a512&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/171574306.jpg?k=0d7578339e4e3e935eb39b0d0473e06b3957355bf1d2cbdaed6f2b76fd8aa36e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/171570139.jpg?k=e7a767774c24f4950f9d32db044ccddfbb9f78d36717388bfd12fd64d672954d&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/365102258.jpg?k=d50ed87eefe18701a187ebd1e58cdee3f101691304295154acee7a1189396ba3&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/365102259.jpg?k=a98218e085e4852ce7995fc787cdd2e9e6555d47631428300b06ba457f72b243&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/365102256.jpg?k=e17cd104cb1cb9f603c1a683baa65ade22b1ddb59afd647e0fd49d9563c9098a&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/365102255.jpg?k=85947661c559bd92ffee7452a1e118ee56777926e10d1bc632fea8a35a4d367e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/365102260.jpg?k=64e4282fd005ff9c1ce0bf66993c6025337d6994725a55ab9078c38ef5b7523c&o=&hp=1"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "The Phoenix Hotel Yogyakarta - Handwritten Collection",
+            "location": "Jalan Jend. Sudirman No.9, Jetis, 55233 Yogyakarta, Indonesia",
+            "description": "Located in the heart of Yogyakarta, The Phoenix Hotel Yogyakarta - MGallery Collection is luxury accommodation in a colonial landmark from 1918. The 5-star hotel offers a spa, a fine-dining restaurant and spacious rooms with free WiFi. The outdoor pool is large and open all-year.\n\nBoasting classic interiors with Javanese and European elements in intricate details, the rooms at this property feature modern amenities such as flat-screen TV and air conditioning. Each room is fitted with a minibar and safety deposit box for your convenience. Hot shower facilities are available in the private bathroom.\n\nThe Phoenix Hotel Yogyakarta - MGallery by Sofitel offers a well-equipped fitness centre. The hotel also provides car rental services and free parking on site.\n\nFor a variety of fine meals, The Paprika Restaurant serves Indonesian, Western and Chinese cuisine in an open-courtyard setting. Cocktails and fine wines are served in the 1918s Lobby Bar.\n\nPopular points of interest near the hotel include Malioboro Street, Malioboro Mall and Fort Vredeburg. The Phoenix Hotel Yogyakarta - MGallery Collection is a 5-minute drive from the Tugu Railway Station and a 20-minute drive from the Adisucipto International Airport. Borobudur and Prambanan temples are a 1-hour drive from the hotel.",
+            "rating": 8.4,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Airport shuttle",
+                "Spa and wellness centre",
+                "Fitness centre",
+                "Room service",
+                "Restaurant",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Superior Heritage Queen or Twin Room",
+                    "Deluxe Legacy King or Twin Room",
+                    "Deluxe Legacy King Room with Pool View",
+                    "Phoenix Executive King Room",
+                    "Legendary King Suite"
+                ],
+                "room_price": [
+                    1329999,
+                    1399999,
+                    1509999,
+                    1579999,
+                    1419999
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31386929.jpg?k=e9f061d50c308dcd10094913f654f2b49d9f00b29e48caacf04588cb1d527f0d&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/37787355.jpg?k=019667aa466ed994fd40323f1170cd24459ec581dabda37e26a1741ce3d2b301&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/239429257.jpg?k=69cac0253e9820044db97c0bc10c51a8f2a19618a00b8c51bed9ab96aded9940&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/239429067.jpg?k=2c381c962b59b245fcf4021b1eb7b608de9cb1b7826e358113bdde4179fe84b4&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/239429114.jpg?k=89de50b933095e7e402e8bd8016d494780ba4ae056905aa8b14c7d3b2023c3f1&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/239429588.jpg?k=4d8375678fb76e2fbf66146ef66b09009ebaca219b79c2000024dde1900cdfa0&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/239428999.jpg?k=6c8852c47369b8271ba4a5c6d4034e8eb2f6702457bb5f0c09f93bf3fa932774&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/354393582.jpg?k=685c2b9dd814cd204cb34e4e7317045ac9fb3b7a5d2add84fd85d6dd34df8fb5&o=&hp=1"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Royal Ambarrukmo Yogyakarta",
+            "location": "Jl. Laksda Adisucipto No. 81, Catur Tunggal, 55281 Yogyakarta, Indonesia",
+            "description": "A 10-minute drive from Adi Sucipto Airport, Royal Ambarrukmo Yogyakarta offers modern and spacious rooms with free WiFi in the heart of Yogyakarta. Boasting an outdoor pool and spa, the hotel shares the same grounds as Ambarrukmo Museum, a famous shopping area.\n\nRooms at the the Royal Ambarrukmo come with wood furnishings and a private balcony. A flat-screen TV with cable channels, minibar and safety deposit box are included.\n\nLaundry and dry cleaning services are available. Other facilities at the property include a fitness centre, a sauna and a children's playground. The staff at the 24-hour front desk can assist with valet parking and luggage storage.\n\nThe Royal Restaurant offers a taste of traditional Indonesian and international cuisines, while cocktails can be enjoyed at Punika Deli or The Lobby Lounge.\n\nThe Royal Ambarrukmo Yogyakarta is a 20-minute drive from Malioboro and the Sultan Palace Residence.",
+            "rating": 8.9,
+            "most_popular_facilities": [
+                "2 swimming pools",
+                "Non-smoking rooms",
+                "Airport shuttle",
+                "Spa and wellness centre",
+                "Fitness centre",
+                "Room service",
+                "Free WiFi",
+                "Free parking",
+                "Bar",
+                "Good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Deluxe Double Room with Balcony",
+                    "Deluxe Double Room",
+                    "Deluxe Twin Room",
+                    "Premier Double Room",
+                    "Premier Twin Room",
+                    "Studio",
+                    "Royal Premiere Double Room",
+                    "Royal Premiere Twin Room",
+                    "Junior Suite",
+                    "Executive Suite"
+                ],
+                "room_price": [
+                    1608000,
+                    1608000,
+                    1608000,
+                    1708000,
+                    1708000,
+                    2008000,
+                    2558000,
+                    2558000,
+                    4208000,
+                    5208000
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/77158038.jpg?k=f8447bd0c5ccce6574ceed2c9ae6cce0cfb89f52162e6cae7af92dca596bd9a6&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/416693088.jpg?k=09a3e9496b3a8dfba47a3ac432ac6488d1a979bcd3cdfa137268fee3665d57e2&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/291272981.jpg?k=3e4126e883bc88029d5d10b9b68a82cc9dabcb7a11e796df03b15ed769754be0&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/291273054.jpg?k=d8df4b63c4b2ef9c14832505b8dd2d47cf757ab3a7f9618e90cf0ed5bf613eac&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/291273031.jpg?k=e92571a4fced619402d7b8eae483d463edee8b014e9185c169c22fb34f7294f2&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/291277123.jpg?k=de69120e0154911e6dc7431006b092e0e3b82634f5471695ce71f7971b1fe8b4&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/547233918.jpg?k=4ecfbc1a4caac31fd0086d3d64c4a6fa503a9c7720cd8985d1e612a4e6452e3d&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/291806094.jpg?k=cfb7df4b798de2d5a96e821886319e2a0686df6a7c586dc2d63bb53e9e9c76da&o=&hp=1"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Sheraton Mustika Yogyakarta Resort and Spa",
+            "location": "Jl. Laksda. Adisucipto Km.8,7, 55282 Yogyakarta, Indonesia",
+            "description": "Sheraton Mustika is just a 5-minute drive from Adisucipto International Airport. It boasts dining options, indoor and outdoor pools, tennis courts, a spa and a gym. 24-hour room service and free Wi-Fi access are provided.\n\nLocated in Yogyakarta City, Sheraton Mustika Yogyakarta Resort and Spa & Spa is a 5-minute drive from Adisucipto Golf Course and Sambilegi Trans Bus Shelter.\n\nGuests can relax in the sauna, take a dip in the hot tub, or head to the barber/beauty shop. Other facilities include a business centre, and cake shop.\n\nContemporary air-conditioned rooms feature a private balcony, offering tropical garden or Mount Merapi views. They offer a kitchenette in select rooms with coffee/tea making facilities. Other comforts include a flat-screen TV, a personal safe, and a bathroom with a hairdryer and toiletries.\n\nAndrowino Bistro serves a fusion of traditional Javanese cuisine and contemporary flavours. Located on the top floor, Suko Wine Lounge offers an international selection of wines and cigars, accompanied with live music entertainment and panoramic pool and mountain views.",
+            "rating": 7.6,
+            "most_popular_facilities": [
+                "3 swimming pools",
+                "Non-smoking rooms",
+                "Airport shuttle",
+                "Spa and wellness centre",
+                "Fitness centre",
+                "Room service",
+                "Free WiFi",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Deluxe King (balcony)",
+                    "Deluxe Twin (balcony)",
+                    "Grand Deluxe Twin (balcony & Club Lounge Access)",
+                    "Grand Deluxe King (balcony & Club Lounge Access)",
+                    "Lagoon Access Room (Twin, balcony,Club Lounge Access)",
+                    "Lagoon Access room (King, balcony,Club Lounge Access)",
+                    "Junior Suite (King, Club Lounge access, balcony)"
+                ],
+                "room_price": [
+                    998250,
+                    1210000,
+                    1421750,
+                    1694000,
+                    1784750,
+                    998250,
+                    1210000
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/338921049.jpg?k=869a559c8e883923fcce60b715d9d77567dde08a9e8c05d3a4e5664238d29271&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/338921076.jpg?k=47a7ce854dffdd3b6ab1db6284e19685f38b60c66e1011d2dd84dce7f7f36a67&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/338921138.jpg?k=d8d00f2bd57ec51b337b2c35f58db04bc591d14c8783a31286e7de856a6a1cb5&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/468125465.jpg?k=089af7c4e5b369b5cf7843bfdbc9354eab161a03353eb63ef1ee762b43a1429f&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/338921064.jpg?k=dec3db9342c55a27d98f4eda67452177695f9d70c9d88c8a1988a0341e9c886e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/468125402.jpg?k=d33e0e4eba9402697f803cdbcf370f6e291d422bd9f9419decd4c4dd3db648a5&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/468125410.jpg?k=4ddd0fc4a87daa4dd0bb1a422720e5d98ba7ab95bd39530a65882bf3387296ae&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/560149774.jpg?k=3a916d9f1207ea0ec30a139290d30ca3bfbeeb6e28c751558be43ff907ac2ad4&o=&hp=1"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Amaranta Prambanan Yogyakarta",
+            "location": "Dawangsari 02/03 No. 45, Sambirejo, Prambanan, Sleman, 55572 Yogyakarta, Indonesia",
+            "description": "Located in Yogyakarta, 4.5 km from Prambanan Temple, Amaranta Prambanan Yogyakarta provides accommodation with a restaurant, free private parking, an outdoor swimming pool and free bikes. Each accommodation at the 5-star hotel has mountain views, and guests can enjoy access to a fitness centre and to a garden. The hotel features pool views, a terrace and a 24-hour front desk.\n\nThe hotel will provide guests with air-conditioned rooms offering a desk, a kettle, a fridge, a safety deposit box, a flat-screen TV and a private bathroom with a bidet. At Amaranta Prambanan Yogyakarta every room is fitted with bed linen and towels.\n\nBreakfast is available daily, and includes buffet, American and Asian options.\n\nThe accommodation offers a children's playground. The area is popular for cycling, and car hire is available at Amaranta Prambanan Yogyakarta.\n\nTugu Monument is 17 km from the hotel, while Yogyakarta Presidential Palace is 20 km away. The nearest airport is Adisutjipto, 10 km from Amaranta Prambanan Yogyakarta, and the property offers a paid airport shuttle service.",
+            "rating": 8.7,
+            "most_popular_facilities": [
+                "2 swimming pools",
+                "Non-smoking rooms",
+                "Airport shuttle",
+                "Fitness centre",
+                "Room service",
+                "Free parking",
+                "Facilities for disabled guests",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Premier Twin Room with Balcony"
+                ],
+                "room_price": [
+                    1529000
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355357459.jpg?k=a38ed630f1a50272171893633f250b7b4f2a5711f449060df64027d13c22eab0&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/561280606.jpg?k=51f5dc02e79ca203bf123d3650ef2ba22c1f99549653f9aed507d5da2633559e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/355361970.jpg?k=890f273bbff2c1eebe502f4ca79b4ee6305f8d82e1b60ca3076ba435d955270e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/561275940.jpg?k=e9120ba87e9acc177fefbc293c44b0f1a6b1048219b8faa16d2affb154a869b1&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/561242410.jpg?k=3219e75354eff2aef13cf92adf7b3a82ac59c1c30cbd3f821b130042f6d983a7&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/561245510.jpg?k=315bf34a36133e26d616e7accafe2db3d8749315fe3eb675388dc8b49b1f379d&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/561276635.jpg?k=f16b20450c9e53d3e7c543ba0b94521086e0e6e9460e4502bf0ce63bb359ce3e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/561280203.jpg?k=7371704ae25f25144dc5d98394a04ac805706e5e5d20fdf4832ba260553d2430&o=&hp=1"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Garrya Bianti Yogyakarta",
+            "location": "Jl. Gabugan Raya Pandowoharjo Sleman, 55512 Yogyakarta, Indonesia",
+            "description": "Garrya Bianti Yogyakarta features a restaurant, outdoor swimming pool, a garden and bar in Yogyakarta. This 5-star resort offers a 24-hour front desk and room service. The resort has family rooms.\n\nAt the resort, the rooms come with a desk. Every room has a kettle, a flat-screen TV, a safety deposit box and free WiFi, while certain rooms here will provide you with a terrace and some have pool views. The units feature a private bathroom, bathrobes and bed linen.\n\nThe daily breakfast offers buffet, \u00e0 la carte or continental options.\n\nYogyakarta Tugu Train Station is 10 km from Garrya Bianti Yogyakarta, while Tugu Monument is 10 km away. The nearest airport is Adisutjipto Airport, 17 km from the accommodation.",
+            "rating": 9.0,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Airport shuttle (free)",
+                "Spa and wellness centre",
+                "Fitness centre",
+                "Room service",
+                "Free parking",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Sunset View Villa King",
+                    "Sunset View Villa Twin",
+                    "Sunset View Villa King",
+                    "Pool View Villa King",
+                    "River View Villa King",
+                    "River View Villa Twin"
+                ],
+                "room_price": [
+                    3379970,
+                    3509000,
+                    3509000,
+                    4477000,
+                    4779500,
+                    4779500
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497025972.jpg?k=514b4a0eb136a9a62ece475945c164d061b1dc8f7f1bc5ff046d60abf172b653&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/532804310.jpg?k=3c55e221204d6ea893b47a77cb316d977553fdee853c23b270c673e83fda58a6&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/487551739.jpg?k=a927b7a3e217b7fc2c1653be71b34a7b42f1ce42471eb780627e1375d4b17475&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/497025998.jpg?k=93713eb8a9ccefb5d1104382a3ec851e74a48f12901cb22eea7fab1f78e850fa&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/532804315.jpg?k=588f1c55bf275bb0df885c1b6063441c0fa89be353210b47108c6289329b9d91&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/487551727.jpg?k=40d50b7c06c291ff2e704ea73d2c4d6eddcb37af2c96698034a28e07a718b34d&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/487551699.jpg?k=a14d0a5a517c2e481841327f33d32a5f9bf331b62268bca9988e26223ad685c2&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/497025995.jpg?k=a56b5960aa078bf2a13c1f6be61eaa41f5000bd4b98ad20379dc41f7d67db1ea&o=&hp=1"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "The Clan Hotel Singapore by Far East Hospitality",
+            "location": "10 Cross Street, 048417 Singapore, Singapore",
+            "description": "Situated in Singapore and with Singapore City Gallery reachable within 700 metres, The Clan Hotel Singapore by Far East Hospitality features concierge services, non-smoking rooms, a restaurant, free WiFithroughout the property and a fitness centre. Each accommodation at the 5-star hotel has city views, and guests can enjoy access to a terrace and to a bar. The accommodation offers a 24-hour front desk, room service and luggage storage for guests.\n\nThe hotel will provide guests with air-conditioned rooms offering a wardrobe, a coffee machine, a minibar, a safety deposit box, a flat-screen TV and a private bathroom with a bidet. At The Clan Hotel Singapore by Far East Hospitality rooms come with bed linen and towels.\n\nGuests at the accommodation can enjoy a buffet or a continental breakfast.\n\nPopular points of interest near The Clan Hotel Singapore by Far East Hospitality include Sri Mariamman Temple, Asian Civilisations Museum and Marina Bay Sands Casino. The nearest airport is Seletar Airport, 17 km from the hotel.",
+            "rating": 8.9,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Fitness centre",
+                "Room service",
+                "Facilities for disabled guests",
+                "Parking on site",
+                "Free WiFi",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Deluxe Room",
+                    "Deluxe Room",
+                    "Premier Double Room",
+                    "Grand Premier Room - Double",
+                    "Premier Single Room",
+                    "Grand Premier Room - Single"
+                ],
+                "room_price": [
+                    3287530,
+                    3551179,
+                    3643510,
+                    3835274,
+                    4965969,
+                    5127903
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280300078.jpg?k=70f7065e4884598166980faaa011077b30fb8aaca21f90f4a6c069c80f66d632&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/241067807.jpg?k=a18430e5115ff5ceaf0e82d6dc41f7865aac9f8d60080f1345d3755483582d38&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/279439389.jpg?k=38531c11f1bd63897b25d57d53e5e9df72e71686e35fdb5569048d0e880afa78&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/306215185.jpg?k=7ebdefdc4a47f9ea3ed6bda9d65082aac038c4d6bc6f54247bbb5d79ecb30f28&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/279439577.jpg?k=3a4c843eaf40190d15c4265d076a7b8e7e068106118938e92a9dea14c4ea661d&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/311200348.jpg?k=4ecf0a8f6bafba868eb7de8b04427ca7423c7c79a9661fa89bb83a9952945b31&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/311200340.jpg?k=c635bf4cdbd7abc0f0ebbe46d1b6d4dbb916d57b8a457a3008ca16d221e3ee4d&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/306215211.jpg?k=a5f7d4ea09586e4963469f17c544a41b8763dab65c76c1b2596e90271a611c3b&o=&hp=1"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Hilton Singapore Orchard",
+            "location": "333 Orchard Road, Orchard, 238867 Singapore, Singapore",
+            "description": "- Hilton Singapore Orchard is the largest Hilton hotel in Asia Pacific, exemplifying the best of the brand from its prime location in Singapore.\n\n- The hotel\u2019s world-class collection of curated culinary concepts includes Estate, an original Hilton-branded all-day dining restaurant, artisanal lobby lounge and bar, Ginger.Lily, and internationally acclaimed Osteria Mozza, as well as one-MICHELIN-starred Shisen Hanten and award-winning local heritage brand Chatterbox.",
+            "rating": 8.5,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Fitness centre",
+                "Room service",
+                "Family rooms",
+                "Facilities for disabled guests",
+                "Parking on site",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Deluxe King Room",
+                    "Deluxe Twin Room",
+                    "Premium King Room",
+                    "Premium Twin Room",
+                    "King Premium City View Room",
+                    "Twin Premium City View Room",
+                    "Deluxe King Room with City View",
+                    "Deluxe Twin Room with City View",
+                    "Executive King Room",
+                    "Executive Twin Room",
+                    "King Panoramic Room",
+                    "Corner King Suite",
+                    "One-Bedroom King Suite",
+                    "Premium King Suite",
+                    "Deluxe King Suite",
+                    "Executive King Suite"
+                ],
+                "room_price": [
+                    4213829,
+                    4957446,
+                    5610863,
+                    6321099,
+                    6662012,
+                    5662710,
+                    6662012,
+                    7997256,
+                    8707492,
+                    9218861,
+                    4900627,
+                    5639273,
+                    5809729,
+                    4213829,
+                    4957446,
+                    5610863
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498851467.jpg?k=fc97c7423a6d65b148d64feac197c08c39e4fbbd7636cd29ee323db2a74f7e37&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/498851648.jpg?k=204e08009fd66766de52e24af5db8d9b086d163d1137290376d2f79a43d6b0f5&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/498851525.jpg?k=771964ef0dad37c12c7d290cf6cca9acdb108cc60e200bdaef683a881ed01b25&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/498851700.jpg?k=c313c5e2f5427febd3d3577b1effba8856d297bccf1debeb6385a86a7857cd97&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/498852124.jpg?k=ce3c3eb115459e8d4456ff31e00dd624e32883f68dc74da686c6808081b9a109&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/498851478.jpg?k=96d0102ab0cdaa932ee9df051f40572ef8cb979d105ed191ba938d51b05242f9&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/498851490.jpg?k=1727bfffb249d6c98e2c4f21541652884a1f700b88f47eeb0d110c3cf724f4bf&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/498851501.jpg?k=78519bdbafd1454bb9d76b1698642eb7f8b5d2c269f360799600aa40343f8b07&o=&hp=1"
+            ]
+        },
+        {
+            "id": 13,
+            "title": "The Fullerton Hotel Singapore",
+            "location": "1 Fullerton Square, Marina Bay, 049178 Singapore, Singapore",
+            "description": "Located in the Central Business District, The Fullerton Hotel Singapore is a 5-minute drive from Clarke Quay and Boat Quay. It features a spa, infinity pool and a fitness centre.\n\nThe Fullerton Hotel Singapore is a 25-minute drive from Changi International Airport. Raffles Place MRT Station is a short 5-minute walk from the hotel.\n\nEach room at Fullerton is equipped with a flat-screen TV and WiFi. A minibar and tea/coffee maker can be found in all rooms.\n\nGuests can indulge in spa treatments at The Fullerton Spa. Hotel Fullerton also houses various luxury boutiques on site.",
+            "rating": 9.0,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Fitness centre",
+                "Spa and wellness centre",
+                "Room service",
+                "Facilities for disabled guests",
+                "Parking on site",
+                "Free WiFi",
+                "Tea/coffee maker in all rooms",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Taste the Good Life Package - Premier Courtyard Room with Complimentary $200 SGD nett flexible Dining Credits per stay",
+                    "Taste the Good Life Package - Heritage Room Twin with Complimentary $200 SGD net flexible Dining Credits per stay",
+                    "Taste the Good Life Package - Heritage Room with Complimentary $200 SGD nett flexible Dining Credits per stay",
+                    "Taste the Good Life Package - Quay Room with Complimentary $200 SGD nett flexible Dining Credits per stay",
+                    "Premier Courtyard Room",
+                    "Heritage Room",
+                    "Heritage Room Twin",
+                    "Taste the Good Life Package - Marina Bay View Room with Complimentary $200 SGD net flexible Dining Credits per stay",
+                    "Quay Room",
+                    "Straits Club Courtyard Room",
+                    "Taste the Good Life Package - Esplanade Room with Complimentary $200 SGD net flexible Dining Credits per stay",
+                    "Straits Club Heritage Room",
+                    "Straits Club Quay Room",
+                    "Marina Bay View Room",
+                    "Esplanade Room",
+                    "Straits Club Marina Bay View Room",
+                    "Premier Collyer Suite",
+                    "Palladian Suite"
+                ],
+                "room_price": [
+                    6761445,
+                    7244406,
+                    7244406,
+                    7727366,
+                    7954642,
+                    8522830,
+                    8522830,
+                    9091019,
+                    8522830,
+                    9091019,
+                    8814027,
+                    9091019,
+                    9659208,
+                    9268578,
+                    9296987,
+                    9694719,
+                    10333932,
+                    10369443
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/237415834.jpg?k=cf815e28070c3722cd0f7df1396446417ff6e6f2df0ce58f2b5ff221dfdae6fc&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/466609365.jpg?k=d0641ffe9e48b3c348f3b67b992229880222a1a5b8f54903d8cdc8078a0acc28&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/233927804.jpg?k=8640e61aa28155378ce02bff8bd7b122f3e8e05bc82fd3148c8e286e6e1ff3cb&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/52476226.jpg?k=a262267af3f14dd73512712e1b883710ff631a69e2c1c39235150f1f127d0495&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/256396699.jpg?k=d1f6d5bb240eba6943d7ec62ad52400019df3aea8ea1752177f17e187fc8dad3&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/233927802.jpg?k=50bbc5a9e2469c21d540d997d32f1bab9b7da4d41295886d11e4ea79d46f2e64&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/106988145.jpg?k=4dc750be5829df9afb3485ee7555b8d4697c151d3a403062908c4a5a1fd87112&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/233927752.jpg?k=4801678a1344d22c42d2deecc14e4c78b00a3d179d4d3801cbd9ca25bdabdd99&o=&hp=1"
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Swissotel The Stamford",
+            "location": "2 Stamford Road, City Hall, 178882 Singapore, Singapore",
+            "description": "One of Southeast Asia's tallest hotels, Swiss\u00f4tel The Stamford is located above City Hall and Esplanade MRT Station. It has a spa, 2 pools, and 12 dining options including a bar at level 70.\n\nEach room comes with a flat-screen cable TV with local Chinese channels and a tea/coffee maker.\n\nSwiss\u00f4tel The Stamford is a 10-minute train ride from the shopping district of Orchard Road. Singapore Flyer is a 15-minute train ride away. Nightlife options at Boat Quay and Clarke Quay are approximately a 20-minute walk away.\n\nThe hotel is part of Raffles City Complex, offering a convention and shopping centre. A well-equipped fitness centre and 6 tennis courts are available. 24-hour room service is available for guests\u2019 convenience. Guests can approach the 24-hour front desk to request for currency exchange, paperless Chinese newspapers and concierge services. Staff are able to converse in English, Malay and Mandarin, Indonesian and Filipino.\n\nSwiss\u00f4tel The Stamford provides 12 restaurants and bars serving an extensive range of cuisines including Peranakan and Japanese dishes. SKAI Restaurant on the 70th floor provides 360-degree views of Singapore while serving Asian and Western delights. JAAN by Kirk Westaway serves British food. The hotel's 3 bars including SKAI Bar offer fine wines and a comfortable setting where guests can unwind.",
+            "rating": 8.7,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Fitness centre",
+                "Spa and wellness centre",
+                "Room service",
+                "Facilities for disabled guests",
+                "Parking on site",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Premier King Room with Balcony and City View",
+                    "Premier Double Room with Two Double Beds, Balcony and City View",
+                    "Premier King Plus Room with Balcony and City View",
+                    "Premier Harbour King Plus Room with Balcony and Harbour View",
+                    "Premier Harbour King Room with Balcony and Harbour View",
+                    "Premier Harbour Double Room with Two Double Beds, Balcony and Harbour View",
+                    "Swiss Harbour Double Room with Two Double Beds, Balcony and Harbour View - High Floor",
+                    "Swiss Harbour King Room with Balcony and Harbour View - High Floor",
+                    "Swiss Harbour King Plus Room with Balcony and Harbour View - High Floor",
+                    "Signature King Suite with Two Balconies and City View",
+                    "Executive King Room with Balcony and City View - High Floor/Lounge Access",
+                    "Executive Double Room with Two Double Beds, Balcony and City View - High Floor/Lounge Access",
+                    "Executive Harbour Double Room with Two Double Beds, Balcony and Harbour View - High Floor",
+                    "Executive Harbour King Room with Balcony and Harbour View - High Floor/Lounge Access",
+                    "Crest King Suite with Two Balconies and View - High Floor/Lounge Access"
+                ],
+                "room_price": [
+                    5227336,
+                    6079619,
+                    6221666,
+                    7073949,
+                    5653477,
+                    6647808,
+                    5227336,
+                    6079619,
+                    6221666,
+                    7073949,
+                    6363713,
+                    7358043,
+                    7642138,
+                    8636468,
+                    5653477
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491354639.jpg?k=4ac3f201ec72fb5342c6c519dae531ab2ffd1727a8e230222c896ba76b224416&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/491354640.jpg?k=af4f0c9c0561be1a3e859c44deb8d50372e982db976d1dc9213c2d8c4af6fda1&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/491354637.jpg?k=d9a01567cce6bc0eb1f43124a7cf3ae365a771307ec739c9e577070feeea2002&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/491354642.jpg?k=55dad11eee1997154a57bb097436ba7a2f9251c29944b0e57001cf9a9587022b&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/491354643.jpg?k=59caa791c2bf389987950878901032fe0ea115f51a55942a503ddec75ffa1355&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/491354644.jpg?k=3ae46b359b6778b6f4519f2a18dc3d88cb5a9f37b7b3194270346a6cdeb81c8c&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/491354645.jpg?k=17964d943cf1ae4807fbd0ecd359ec72a70e35b91f1a194e2c2bd517ecdacb56&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/491354646.jpg?k=b3154f66c9e7e66a7b32d2f1ffadf9be0f5d8f04ee4ae144f17613b80fef749d&o=&hp=1"
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Mondrian Singapore Duxton",
+            "location": "16A Duxton Hill, Chinatown, 89970 Singapore, Singapore",
+            "description": "Attractively set in Singapore, Mondrian Singapore Duxton features air-conditioned rooms, an outdoor swimming pool, free WiFi and a garden. Each accommodation at the 5-star hotel has city views, and guests can enjoy access to a restaurant and to a bar. Private parking is available on site.\n\nThe rooms at the hotel are fitted with a seating area, a flat-screen TV and a safety deposit box. The private bathroom is fitted with a shower, free toiletries and a hairdryer. All guest rooms will provide guests with a fridge.\n\nGuests at Mondrian Singapore Duxton can enjoy a continental breakfast.\n\nWith staff speaking Mandarin, English, Korean and Malay, round-the-clock advice is available at the reception.\n\nPopular points of interest near the accommodation include Singapore City Gallery, Sri Mariamman Temple and Statue of Sir Stamford Raffles. The nearest airport is Seletar Airport, 18 km from Mondrian Singapore Duxton.",
+            "rating": 8.8,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Fitness centre",
+                "Room service",
+                "Facilities for disabled guests",
+                "Private parking",
+                "Free WiFi",
+                "4 restaurants",
+                "Bar",
+                "Good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Duxton Twin Room",
+                    "Duxton Room - Mobility Accessible",
+                    "Duxton King Room with View",
+                    "Duxton Twin Room with View",
+                    "Duxton Corner Double Room",
+                    "Pinnacle Double Room",
+                    "Pinnacle Corner Double Room",
+                    "Suite",
+                    "Shophouse Suite"
+                ],
+                "room_price": [
+                    3355864,
+                    4474486,
+                    4659857,
+                    5625068,
+                    4142096,
+                    5049777,
+                    3355864,
+                    4474486,
+                    5177619
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450259578.jpg?k=4baebe6f4999a615b9de1537d74856cb97ce96d308cec5778aa73d669a907619&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/510938444.jpg?k=5575a330c3da6923139d4b02f98fdb92c22facbb6da4e753772a8dac4decc8eb&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/510938451.jpg?k=18415b7a2c14031337e9146bda5870a1f326befefcdbaaeadd26254f1cd04d98&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/545172245.jpg?k=e1145ce76c590fe15905d67bb736d4f8791fe5f1f32e163cb7778360de0e29c6&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/545172248.jpg?k=eeb79762b6b9360757d1294c87ca29d53f80774de3e1a828be046044fc73a017&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/545172242.jpg?k=55d779d65a507e39f472c08d91b4e92b16c16a24ef09ad7f20ba5d9b5e8985ac&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/510938428.jpg?k=1b9f57378a8fc3ae3871fa95f7115ce96c11aaf4ff175a537c0492b9edc927f6&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/510938445.jpg?k=b072d3d4e0b09a1c1849846536655af93af2c3d935f3cc6f708b1c50a8ee1cab&o=&hp=1"
+            ]
+        },
+        {
+            "id": 16,
+            "title": "PARKROYAL COLLECTION Pickering, Singapore",
+            "location": "3 Upper Pickering Street, Chinatown, 058289 Singapore, Singapore",
+            "description": "Located beside Chinatown MRT Station, PARKROYAL COLLECTION Pickering, Singapore boasts a dedicated wellness floor that features an outdoor pool, gym and 300-metre garden walk high above the street level. Free Wi-Fi is available.\n\nFeaturing views of the city or the garden, air-conditioned rooms are furnished with a personal safe, a flat-screen cable TV and a minibar. En suite bathrooms offer a hairdryer, bathrobe and free bath amenities.\n\nPARKROYAL COLLECTION Pickering, Singapore operates a 24-hour front desk that provides luggage storage. Conveniences include a business centre and meeting/banqueting facilities. Guests can relax at the sun terrace or indulge in a pampering massage at the spa.\n\nLIME restaurant serves a delectable mix of Southeast Asian and International cuisine in a modern yet warm ambiance. Exclusively for collection club room guests, the rooftop COLLECTION Club lounge features a sweeping 360 degree view of the city skyline.\n\nSituated opposite Hong Lim Park, the hotel is within a few minutes\u2019 walk to the bustling Chinatown, Raffles Place and Clarke Quay, Singapore's famous nightlife district. The popular shopping district of Orchard Road is a 15-minute drive away. The hotel is about a 20-minute drive from Changi International Airport.",
+            "rating": 8.9,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Fitness centre",
+                "Spa and wellness centre",
+                "Room service",
+                "Facilities for disabled guests",
+                "Private parking",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Special Offer - Urban Deluxe King or Twin",
+                    "Urban Deluxe King or Twin",
+                    "Special Offer - Lifestyle Premier King",
+                    "Lifestyle Premier King",
+                    "Special Offer - Signature Executive King",
+                    "Signature Executive King",
+                    "COLLECTION Club King or Twin",
+                    "Special Offer - Urban Suite",
+                    "Urban Suite",
+                    "COLLECTION Club Lifestyle King"
+                ],
+                "room_price": [
+                    5177619,
+                    5791263,
+                    5177619,
+                    5752910,
+                    6366554,
+                    5752910,
+                    6366554,
+                    5752910,
+                    6392123,
+                    7005766
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/318936829.jpg?k=41075e31eb9d7377be08368d0d52d22cb3ccc02b06d9047457a96dbbb58fbdd0&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/278598539.jpg?k=3359ec164f956cc0de55001aa2ed25656012002ba16b901c421535e09837ab11&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/32493169.jpg?k=e32a9e8939d4d0445a6768624119c7c1914d8871b26011d952d78ea3fe967ba9&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/32493165.jpg?k=6d92844725a38d638f93c2022cb1a90d269d3822d5635f7757e1b815434ab036&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/32493142.jpg?k=ab77b2f6c4b359e35301faba6654c7d613607a6a189167dbb013bfbcc5bca7a0&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/32493157.jpg?k=ae21ae0afa15dbbb93c821d4e1b6956d99d9185d152cc3817bdd3c2e211e77ac&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/510926765.jpg?k=a536ff53f698a730c4fe51c35662d4289b5c1396c559558081a4ab54f6cfd382&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/510926791.jpg?k=94706448222132725c401f04cfcb19d9ea74280a3b41451e88d88668eddf7bb9&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/510926573.jpg?k=66ee9dfdd5cfe9020956b6db457dd0be9cd261adf48a535b0530d4a7a9bd3878&o=&hp=1"
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Fairmont Singapore",
+            "location": "80 Bras Basah Road, City Hall, 189560  Singapore, Singapore",
+            "description": "Fairmont offers accommodation in Singapore\u2019s Bras Basah arts hub, atop City Hall MRT Station and Esplanade MRT Station.Directly connected to Raffles City Shopping Centre, it boasts 12 dining options and 2 outdoor pools. Free WiFi is available throughout the property.\n\nFairmont Singapore is located within Raffles City complex, which houses a convention centre and shopping mall. Esplanade Theatres on the Bay is about 400 metres away, while shopping haven Orchard Road is a 5-minute drive away.\n\nSpacious air-conditioned rooms at Fairmont come with a private balcony, with some offering views of the skyline and Marina Bay waterfront. Each room is equipped with a TV with cable channels and a tea/coffee maker.\n\nThe hotel serves an international buffet breakfast, including Western, Chinese and Japanese options. Featuring live cooking stations, Asian Market Caf\u00e9 offers a wide spread of Asian favourites with Halal dishes. Cocktails and tapas are served at the stylish and modern Anti:dote bar.\n\nWillow Stream Spa provides gym facilities, along with a range of body treatments and afternoon tea. Guests can play a game of tennis or take a dip in the hot tub. Fairmont Singapore provides express laundry services and a multilingual concierge.",
+            "rating": 8.7,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Fitness centre",
+                "Spa and wellness centre",
+                "Room service",
+                "Facilities for disabled guests",
+                "Parking on site",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Deluxe King Room with Balcony",
+                    "Deluxe Double Room with Two Double Beds and Balcony",
+                    "Signature King Suite with Two Balconies",
+                    "Deluxe Harbour King Room with Balcony and Harbour View",
+                    "Signature Salon King Suite with Separate Lounge and Two Balconies",
+                    "Fairmont Gold King Room with Balcony - Lounge Access",
+                    "Fairmont Gold Harbour King Room with Balcony and Harbour View - Lounge Access"
+                ],
+                "room_price": [
+                    5795525,
+                    6647808,
+                    6789855,
+                    7642138,
+                    6221666,
+                    7215996,
+                    5795525
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/526569733.jpg?k=4486b492456d020624590526c49a6951516be66b3a73e2aa8c87cac56a0e8f43&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/491355157.jpg?k=693923920b9e85e0857f564a050cb4dfc96315b6d8a93fc42a5be28509b27743&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/491355179.jpg?k=dffbc507ac711412d997722fb36a309cc55306ae8119a1c6dbb55319b34aa0bf&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/491355216.jpg?k=59712046ce513d9041588b3efe3883924f3d4b26d2f3db54c86877a3d9481166&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/491355170.jpg?k=299571d16c37f7f7a6f62c949aa8068aa632715c6235d30b1ed620c571ced031&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/491355222.jpg?k=14437ca21670e7346524369d4e49d57be70848d7fe2b3a11eeebd0724f1df338&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/491355185.jpg?k=d38fcf60f0b4f887bb9a214e4cfd70fb90f4ca3cdcdfd021a01f14508a246926&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/491355146.jpg?k=2dba2819ed5fd507de841677f2b7ffa892d41782aa6fc9973ee9f530568fe254&o=&hp=1"
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Marina Bay Sands",
+            "location": "10 Bayfront Avenue, Marina Bay, 018956 Singapore, Singapore",
+            "description": "Set in Singapore, 200 metres from The Shoppes at Marina Bay Sands, Marina Bay Sands offers accommodation with a fitness centre, private parking, a restaurant and a bar. This 5-star hotel offers an ATM and a concierge service. The accommodation provides room service, a 24-hour front desk and currency exchange for guests.\n\nThe hotel will provide guests with air-conditioned rooms with a wardrobe, a kettle, a minibar, a safety deposit box, a flat-screen TV and a private bathroom with a shower.\n\nA buffet breakfast is available every morning at Marina Bay Sands.\n\nGuests at the accommodation will be able to enjoy activities in and around Singapore, like cycling.\n\nPopular points of interest near Marina Bay Sands include Sands SkyPark Observation Deck, ArtScience Museum and Marina Bay Sands Casino. The nearest airport is Changi Airport, 16 km from the hotel.",
+            "rating": 9.2,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Fitness centre",
+                "Spa and wellness centre",
+                "Room service",
+                "Family rooms",
+                "Facilities for disabled guests",
+                "Private parking",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Deluxe King",
+                    "Deluxe Twin",
+                    "Sands Premier King",
+                    "Sands Premier King Gardens by the Bay View",
+                    "Sands Premier Double Queen Gardens by the Bay View",
+                    "Sands Premier King City View",
+                    "Sands Premier Double Queen City View",
+                    "Sands Premier Suite King Gardens by the Bay View",
+                    "Sands Premier Suite Double Queen City View",
+                    "Sands Premier Suite King City View"
+                ],
+                "room_price": [
+                    9502956,
+                    9502956,
+                    13764371,
+                    15895078,
+                    14474607,
+                    16605314,
+                    14474607,
+                    16605314,
+                    15895078,
+                    18025786
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/297612456.jpg?k=44977544783a75ce061805cb73ddf426d5eddcda7489a230b03998ae44d9f3e4&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/430789846.jpg?k=5eafbe42e904becd5ded85ee0f8c30b944e794b08595894ca9e7f4e3e2f5f686&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/481025777.jpg?k=c8bc0dadb8ebb7e23611b5675f82437e0995121509594d8dfd2497474b57a031&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/463001707.jpg?k=1fc40a22546a6e5913e8ede734feeaa2e1e19f26aa6078d8fa6f813768ff541a&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/430789848.jpg?k=5d92826e962333cdc469c7694e0a761f0f4bc6b7a0c1400dd8719a951e7f5920&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/297611078.jpg?k=e26cc333800386469e170cfec12cc5cc261812df76497422688608b41d30f7f3&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/463000364.jpg?k=51e92df1ca7c4d36a89053ca10fa133864bfd241080f03ef89bf6f6b9b84bd8a&o=&hp=1"
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Pan Pacific Singapore",
+            "location": "7 Raffles Boulevard, Marina Square, Marina Bay, 039595 Singapore, Singapore",
+            "description": "The 5-star Pan Pacific Singapore is directly connected to Marina Square Mall and Suntec Convention Centre. Located at the gateway of Singapore\u2019s Central Business and Financial Districts, it features an outdoor swimming pool and guests can enjoy meals at 8 dining options or have a drink at the bar. Free WiFi is available throughout the hotel.\n\nIt is 800 metres to Esplanade - Theatres By The Bay, while Gardens by the Bay is 1.1 km away. The National Gallery Singapore, Victoria Theatre and Asian Civilisations Museum are within 1.3 km from the property. Changi Airport Singapore is 20 km from Pan Pacific Singapore.\n\nAir-conditioned rooms at are equipped with full-length windows featuring panoramic views of the city. All rooms are fitted with a flat-screen satellite TV and a work desk. The en suite bathroom includes shower facilities and complimentary toiletries.\n\nOther facilities at the property include a wading pool equipped with cabanas and sun loungers, 2 tennis courts as well as a fitness centre. Located by the pool, the award-winning St. Gregory Spa offers a wide range of pampering face and body treatments. Guests can approach the 24-hour front desk for concierge services and luggage storage.\n\nThe newly revamped Pacific Emporium is a home for artisanal produce, captivating guests through the fragrant aromas, authentic local flavours and enticing visual delights. The brand new PLUME is a destination cocktail bar poised to enchant the most discerning of connoisseurs. Other dining options include Edge International Buffet Restaurant, Keyaki Japanese Restaurant, Hai Tien Lo Cantonese Restaurant and Rang Mahal Indian Restaurant. Drinks and snacks are served at the Atrium Lounge, while the Poolside Restaurant & Bar is a unique open air restaurant serving a selection of Mediterranean inspired delights.\n\nAdditional Enhancement of the Atrium on Level 1 with effect from 03 October 2022.",
+            "rating": 8.5,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Fitness centre",
+                "Spa and wellness centre",
+                "Room service",
+                "Family rooms",
+                "Free parking",
+                "Bar",
+                "Fabulous breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Deluxe Room",
+                    "Deluxe Panoramic Room",
+                    "Premier Marina Bay",
+                    "Executive Marina Bay",
+                    "Pacific Club Room",
+                    "Pacific Club Studio",
+                    "Pacific Club Select Studio",
+                    "Premier Suite",
+                    "Skyline Suite",
+                    "Urban Jungle Suite",
+                    "Connecting Premier Marina Bay Room",
+                    "Connecting Deluxe Panoramic Room"
+                ],
+                "room_price": [
+                    4817530,
+                    5667682,
+                    5046936,
+                    5937572,
+                    5397792,
+                    6342406,
+                    6747241,
+                    7691854,
+                    5735155,
+                    6747241,
+                    7084603,
+                    8096689
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85960609.jpg?k=12f4e89050495cb84f81e37ac261d77e9db6e6f8499ce955a6048cb9a35c9bf1&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/340464336.jpg?k=2ab53859841b63d662a054cbd095ef95cbcf7db2d6a6008f0a8c2d191ef9a8ba&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/85957992.jpg?k=6c865a7bc551cb10339e010006e3667f134ac0eebbbc16890ff098426a6ed08f&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/309285942.jpg?k=728184283213be59944379af7d582251f642dd2e11e432bce4636ffea7bdb889&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/85960916.jpg?k=ceab856961798528bd142b9c282a82b089b523fc13331e405a39217082e9d4fb&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/85962868.jpg?k=2d3a33307f18d5a805f0f573361ca6281b174c0bd556d4f5115c1e5d7b30de93&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/476500770.jpg?k=2c2a59786e92b2f3661290b5d769def0b41863660b3d72985386a109b4bced87&o=&hp=1"
+            ]
+        },
+        {
+            "id": 20,
+            "title": "The Ritz-Carlton, Millenia Singapore",
+            "location": "7 Raffles Avenue, Marina Bay, 039799 Singapore, Singapore",
+            "description": "The Ritz-Carlton, Millenia Singapore is located in downtown Marina Bay, Singapore. Luxuriously decorated with a contemporary art collection, it features complimentary high speed WiFi access with a bandwidth of 1Gbps, swimming pool, spa and a 24-hour gym.\n\nThe Ritz-Carlton, Millenia Singapore is a 5-minute walk from the Singapore Flyer and Marina Square Shopping Mall. It is within a 10-minute walk to Marina Bay Sands, ArtScience Museum, Gardens by the Bay and The Esplanade \u2013 Theatres on the Bay. Changi International Airport is a 20-minute drive from the hotel. Its a 5-minute walk from Promenade MRT train station and 10-minute walk from Esplanade MRT train station (local train transport system).\n\nAll rooms and suites offer panoramic views of the city's skyline. Each air-conditioned room comes equipped with a wall-mounted cable TV, walk-in closet and a marble bathroom that includes a rain shower.\n\nThe exclusive Club Lounge located on level 32 allows club guests to enjoy daily culinary presentations, complimentary limousine transfer to the vicinity and unparalleled concierge service.\n\nDelight in Singapore\u2019s heritage cuisines in a British-colonial setting at Colony restaurant. The one Michelin star Summer Pavilion serves sumptuous Cantonese dishes while Republic presents flavors, ingredients and sensations inspired by influential hallmarks of pop culture in the 1960s.",
+            "rating": 9.0,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Fitness centre",
+                "Spa and wellness centre",
+                "Room service",
+                "Family rooms",
+                "Facilities for disabled guests",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Fabulous breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Deluxe Kallang Guest room with 1 King Bed",
+                    "Deluxe Kallang Twin, Guest room, 2 Twin/Single Bed(s)",
+                    "Elevated Kallang Room with Kallang Precinct view",
+                    "Elevated Kallang Twin, Guest room, 2 Twin/Single Bed(s)",
+                    "Grand Kallang Room with King Bed",
+                    "Deluxe Marina Room with Marina Bay view",
+                    "Grand Marina Room with King Bed and Marina Bay view",
+                    "Club Deluxe Kallang Room with Kallang Precinct view",
+                    "Club Deluxe Marina Room with Marina Bay view",
+                    "Deluxe suite with 1 king bed",
+                    "Premier Suite with King Bed and Marina Bay view",
+                    "Club Deluxe Suite with a King Bed and Marina Bay view",
+                    "Club Premier Suite with a King Bed and Marina Bay view",
+                    "1-Bedroom Millenia Suite with Marina Bay view"
+                ],
+                "room_price": [
+                    8380783,
+                    8522830,
+                    8806925,
+                    9659208,
+                    9233066,
+                    8948972,
+                    9801255,
+                    9375113,
+                    9517160,
+                    10937632,
+                    10937632,
+                    12358104,
+                    9801255,
+                    11221727
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/439545542.jpg?k=9bff2e26e7f8154d12dc20f43316fc6a63496e309677eac95ee3c4d885cc82fb&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/483250999.jpg?k=57ffa8e5d1fd6f86538de902267adcdccfd320fa85ef7cb971559a6569f831ed&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/483251049.jpg?k=7feaed19fbe670d8b04f4606f397a100d8c71b7e41380e6bb255a576ac86bfab&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/483251086.jpg?k=d762425c6e33de0ab2ec547f3a50ac4665f316b8cf884aada958aecec32ec72e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/516795656.jpg?k=606ff06a33b2b1f15271dbc55b05cc3abf20c3a4839400f1e806afbeb7a81c2b&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/553910414.jpg?k=1e8be0a272c85e02a7852b62bb3b39659d8e3206dad5c38a7c81b9262de88097&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/449569080.jpg?k=f0d5438e36731c6028c29efa5f1eb597930b2e893193a488b81f2e8738abd12e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/449569202.jpg?k=36151111f2ac881384e489d1cd0db3c078c3f2777f9ade1568572fbcb222e083&o=&hp=1"
+            ]
+        },
+        {
+            "id": 21,
+            "title": "Mandarin Oriental, Tokyo",
+            "location": "103-8328 Tokyo-to, Chuo-ku Nihonbashi Muromachi 2-1-1, Japan",
+            "description": "Boasting fine restaurants and an award-winning spa on the 37th floor, Mandarin Oriental offers 5-star luxury in the historical Nihonbashi area in the heart of Tokyo. Among the most spacious in Tokyo, rooms feature gorgeous city views. Mitsukoshimae Subway Station and JR Shin-Nihonbashi Train Station are directly connected to the hotel.\n\nRooms at the Mandarin Oriental, Tokyo pair wide windows with chic design inspired by Japanese aesthetics. A full range of modern amenities are offered, including a satellite flat-screen TV. All rooms boast a sofa, seating area and desk, while bathrooms have a large bathtub and separate shower.\n\nThe hotel is a 5-minute walk from Tokyo Stock Exchange and an 8-minute walk from JR Tokyo Station. Ginza area is a 5-minute subway ride and the Imperial Palace is a 3-minute subway ride away. Akihabara Electric Town and the popular Tsukiji Fish Market are both within a 10-minute drive or taxi ride from the property.\n\nGuests can work out to city views at the 38th-floor fitness room, or relax in the hot tub or sauna. The spa offers exclusive Asian and Western-fusion treatments in a tranquil setting. The hotel\u2019s concierge helps with sightseeing.\n\nAmong the hotel\u2019s 9 dining options is Sushi Shin by Miyakawa, offering edomae-style sushi and skyline views. Cantonese and French cuisines also tempt the tongue. Mandarin Bar pours cool cocktails. The Michelin starred Tapas Molecular Bar is open for both lunch and dinner.",
+            "rating": 9.2,
+            "most_popular_facilities": [
+                "Non-smoking rooms",
+                "Parking on site",
+                "Spa and wellness centre",
+                "Fitness centre",
+                "Facilities for disabled guests",
+                "Room service",
+                "WiFi",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Superb breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Deluxe King Room",
+                    "Deluxe Twin Room",
+                    "Premier Deluxe King Room",
+                    "Premier Deluxe Twin Room",
+                    "Deluxe Corner King Room",
+                    "Mandarin Grand King Room",
+                    "Mandarin Grand Twin Room",
+                    "Premier King Suite",
+                    "Mandarin Twin Suite",
+                    "Mandarin Corner King Suite"
+                ],
+                "room_price": [
+                    15465800,
+                    16496853,
+                    15465800,
+                    16496853,
+                    16110208,
+                    17141262,
+                    16110208,
+                    17141262,
+                    16754617,
+                    17399025
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/233112283.jpg?k=ab9378691e357066d755de1f4666359f1ce4cb8cafc44018aec976ee52424e41&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/523549767.jpg?k=98ddbd103a24c8ec2e5162d08a8bffa3a69a0e57773fe49172dd4943ed28081e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/233111733.jpg?k=a04d4cc17fb8acaaa0abb49fd01db4f070c1632c48be8252685b5ebcaaa790db&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/177035489.jpg?k=1b5d2582d38d0300dce20102f7adeef30357955e362a46ae8a4f08718bf04b35&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/177035322.jpg?k=e12c374f7fdbb304c64afc72c1cb54f08135eabba4c5178017d59bbad0396404&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/241804125.jpg?k=1b2bd8f5775a8168297b8e0c560c9e9a015a6ae07a4bcf9a79e3ca63e858ebbf&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/250322928.jpg?k=d314ad44579ea1bcb29213c54b3f09aa8bc70b4d2d4b6cdb82974578863dd045&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/239899002.jpg?k=55a84540ec63997bdcfaa4d0dd763a6f204f5a1664f274035749abe273efeb4e&o=&hp=1"
+            ]
+        },
+        {
+            "id": 22,
+            "title": "Grand Prince Hotel Takanawa",
+            "location": "108-8612 Tokyo-to, Minato-ku, Takanawa 3-13-1, Japan",
+            "description": "Featuring a spacious garden and 7 restaurants, Grand Prince Takanawa is a 5-minute walk from JR Shinagawa Shinkansen (bullet train) Station. It offers spacious rooms with an en suite bathroom and free wired internet.\n\nThe air-conditioned rooms at Grand Prince Hotel Takanawa come with a fridge and electric kettle. The private bathroom has a bathtub and hairdryer. A laptop can be rented from reception, for a fee.\n\nFrom the nearby JR Shinagawa Station, Shibuya, Harajuku and Akihabara areas are all 15 minutes or less away by train. Tokyo Big Sight Convention Centre and the Roppongi area are both 5.5 km away, and the Ginza area is 6.5 km away.\n\nDuring summer, 2 outdoor pools are available for an extra charge. Computers with internet access can be used at the business centre, and Wi-Fi is provided at a charge in the lobby and guest rooms. A concierge assists with sightseeing.\n\nGuests can start their day with a breakfast at Grand Caf\u00e9 Patio.",
+            "rating": 8.3,
+            "most_popular_facilities": [
+                "2 swimming pools",
+                "Non-smoking rooms",
+                "Private parking",
+                "Fitness centre",
+                "Free WiFi",
+                "5 restaurants",
+                "24-hour front desk",
+                "Lift",
+                "Tea/coffee maker in all rooms",
+                "Good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Superior Double Room - Non-Smoking",
+                    "Superior Twin Room - Non-Smoking",
+                    "Superior Double Room High Floor - Non-Smoking",
+                    "Deluxe King Room Non-Smoking - Garden View",
+                    "Superior King Room High Floor - Non-Smoking",
+                    "Superior Twin Room High Floor - Non-Smoking",
+                    "Deluxe Twin Room Non-Smoking - Garden View",
+                    "Deluxe King Room High Floor Non-Smoking - Garden View",
+                    "Deluxe Twin Room High Floor Non-Smoking - Garden View",
+                    "Club Superior Double Room with Lounge Access - Non-Smoking",
+                    "Club Superior King Room with Lounge Access  - Non-Smoking",
+                    "Club Superior Twin Room with Lounge Access - Non-Smoking",
+                    "Club Deluxe King Room with Lounge Access Non-Smoking - Garden View",
+                    "Club Deluxe Twin Room with Lounge Access Non-Smoking - Garden View",
+                    "Junior Suite  Deluxe King Room with Lounge Access - Non-Smoking",
+                    "Deluxe Twin Room with Extra Bed Non-Smoking - Garden View"
+                ],
+                "room_price": [
+                    2864454,
+                    3434997,
+                    2864372,
+                    3149644,
+                    3150703,
+                    3721247,
+                    3435975,
+                    3724344,
+                    4294887,
+                    3724262,
+                    4009534,
+                    3724344,
+                    4294887,
+                    3724262,
+                    4009534,
+                    3724344
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/171407564.jpg?k=3b282248f7af67f87214f17703356331d789c9219a7cb9faa0000a3254ae5413&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/172587954.jpg?k=44fc49d9298106e64b10d59a9a891b1e36c1c618ee3a7b830443f3b9d21036c0&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/501513105.jpg?k=fc29dffffd0e2e4754deeb8ab7ad8d2d32bb3d64de8c018ee0d77c2d54fe8968&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/150329568.jpg?k=4b6d0c27875285ec5539ce383ec7ec53a35532491c2a67f46f4fed4bfe690311&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/150330017.jpg?k=d186c70ac7295179879ed6da77241b9629109989b329a6d58fe3c02f472c6625&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/501509385.jpg?k=1b367ad7382dfb864851f6e4d6f3589fb1e2a53eaaed718a44eaec44caa6e915&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/150330030.jpg?k=2528ed41dd476b07668700ba797a565185e5d995ab4e63230729b48b63a1998f&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/131236596.jpg?k=a342ce405ada92f74ef41670669cf93186722d7bd57768196309d2246df7d2db&o=&hp=1"
+            ]
+        },
+        {
+            "id": 23,
+            "title": "The Prince Park Tower Tokyo - Preferred Hotels & Resorts, LVX Collection",
+            "location": "105-8563 Tokyo-to, Minato-ku, Shiba Koen 4-8-1 , Japan",
+            "description": "Rising above Shiba Park and situated right by Tokyo Tower, The Prince Park Tower Tokyo - Preferred Hotels & Resorts, LVX Collection offers spacious rooms with skyline views and free WiFi. The hotel is within walking distance to various train stations, including Akabanebashi Subway Station, a 2-minute walk, and JR Hamamatsucho Train Station, a 12-minute walk away.\n\nThe comfortable, contemporary rooms at Tokyo Prince Park Tower include a seating area and flat-screen TV. Guests can slip on the soft bathrobe and enjoy city and park views.\n\nTokyo Tower is 450 metres from the hotel, while Tokyo Station is 3.4 km away. Roppongi is a 5-minute train ride and Shinjuku is a 15-minute train ride away. The Limousine Bus from Narita Airport stops at the hotel. To get to Haneda International Airport, guests can take a 15-minute monorail ride from Hamamatsucho Station.\n\nEntertainment options include a bowling alley and karaoke, while the sauna and massage service make relaxation easy. Certain guests have access to the fitness centre, hot-spring spa, indoor swimming pool and 33rd-floor lounge.\n\nPanoramic city views are offered at Brise Verte French Restaurant and Stellar Garden Sky Lounge. There are ten additional food and beverage options available.",
+            "rating": 8.9,
+            "most_popular_facilities": [
+                "Indoor swimming pool",
+                "Non-smoking rooms",
+                "Parking on site",
+                "Facilities for disabled guests",
+                "Room service",
+                "Free WiFi",
+                "9 restaurants",
+                "24-hour front desk",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Twin Standard",
+                    "Corner King Room - Non-Smoking",
+                    "Deluxe Twin Room - Non-Smoking",
+                    "Panoramic Corner King Room - Non-Smoking",
+                    "Panoramic Twin Room - Non-Smoking",
+                    "Standard Twin Room with Tokyo Tower View - Non-Smoking",
+                    "Corner King Room with Tokyo Tower View - Non-Smoking",
+                    "Deluxe Twin Room with Tokyo Tower View - Non-Smoking",
+                    "Panoramic Twin Room with Tokyo Tower View - Non-Smoking",
+                    "Club King Room - Non-Smoking - Club Lounge Access",
+                    "Club Corner King Room with Tokyo Tower View - Non-Smoking - Club Lounge Access",
+                    "Garden Suite Room with Tatami Area - Non-Smoking"
+                ],
+                "room_price": [
+                    4815958,
+                    6883524,
+                    8629733,
+                    6883442,
+                    8186757,
+                    6883524,
+                    8629733,
+                    8742273,
+                    11163710,
+                    6883442,
+                    8186757,
+                    8186808
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/371532953.jpg?k=e8256924eaf8f77d6c78caaea1aa662432247d79de61c56353ede9b2a9680dd2&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/555888270.jpg?k=0e980897a004b3e0681a4dcd19c5210cca101b9c530eb64fdb380d5c89424d5f&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/374486779.jpg?k=49b94f6ad7515339a4b42c4a0c2227471c6c972349249cd501083d74572b64a2&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/464908246.jpg?k=120ac42e6a74f1e32986b4323af11aae612a95edcab76f4ff983d9b00abf6a78&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/464903654.jpg?k=e3e7ca327a7806515c6d915ab05499fb02ec6b515cbef8ed31ea1f9ae68a2dc9&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/133231822.jpg?k=8f4d511aa28b5b58f5b45d1412260d7bc79d9f844b6ec954227d6119c09bfd62&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/80943021.jpg?k=5e58335f77a5543a41169f98144b246698971071e27cb8b9c7faef045c67afd6&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/205240366.jpg?k=d4e4b1e6438ec2612085f5dcf521ce35f11c6791eec3df15b2b41dfd645382d1&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/80943020.jpg?k=71843a0b93dab64e7a292bba93f9ad948e414708f2f30b2896528a595c5aae12&o=&hp=1"
+            ]
+        },
+        {
+            "id": 24,
+            "title": "Grand Nikko Tokyo Daiba",
+            "location": "135-8701 Tokyo-to, Minato-ku Daiba 2-6-1 , Japan",
+            "description": "Grand Nikko Tokyo Daiba is the first Grand Nikko hotel in Japan, open from 1 July 2016. Situated in the Tokyo Bay area in Odaiba, this property is the closest city resort hotel to central Tokyo, a 20-minute monorail and train ride away from JR Tokyo Station. Free WiFi is available throughout the property.\n\nThe spacious guestrooms of this hotel feature elegant European-style decor and come with free wired internet access throughout. All rooms include a flat-screen TV with satellite channels, feather pillow and seating area. The upper floors boast panoramic views of Tokyo Bay, as well as views of the Rainbow Bridge and Tokyo Tower.\n\nTeppanyaki Icho and the grill restaurant, The Grill on 30th offer spectacular skyline views from the 30th floor. There is also a sushi restaurant, a Japanese and Chinese restaurant in addition to several other cafes and bars on site.\n\nGood access to \u201cIMMERSIVE FORT TOKYO\u201d and \u201cToyosu Senkyaku Banrai\u201d\n\nThe property has received SAKURA QUALITY certification for our SDG's initiatives\n\nPlease be noted that hotel will undergo a scheduled power outage due to facility maintenance and inspection on January 26, 2025 \u2013 January 27, 2025. We apologize for any inconvenience this may cause and appreciate your kind understanding.",
+            "rating": 8.9,
+            "most_popular_facilities": [
+                "Indoor swimming pool",
+                "Non-smoking rooms",
+                "Private parking",
+                "Fitness centre",
+                "Facilities for disabled guests",
+                "Room service",
+                "Free WiFi",
+                "6 restaurants",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Room Selected at Check-In - Check-in After 6PM and Check-out before 10AM",
+                    "Superior Double Room - Non-Smoking",
+                    "Superior Twin Room - Non-Smoking",
+                    "Superior Double Room with Bay View - Non-Smoking",
+                    "Superior Twin Room with Bay View - Non-Smoking",
+                    "Deluxe Twin Room - Non-Smoking",
+                    "Deluxe Twin Room with Bay View - Non-Smoking",
+                    "Deluxe Twin Room with Bay View - Rainbow Bridge Side - Non-Smoking",
+                    "Executive 27th and 28th Floor Superior Double Room - Non-Smoking",
+                    "Executive 25th and 26th Floor Superior Double Room - Non-Smoking",
+                    "Executive 25th and 26th Floor Superior Twin Room - Non-Smoking",
+                    "Executive 27th and 28th Floor Deluxe Twin Room - Non-Smoking",
+                    "Executive 25th and 26th Floor Deluxe Twin Room - Non-Smoking",
+                    "Executive 25th and 26th Floor Superior Twin Room - Rainbow Bridge Side - Non-Smoking",
+                    "Executive 27th and 28th Floor Superior Double Room - Rainbow Bridge Side - Non-Smoking",
+                    "Executive 25th and 26th Floor Superior Double Room - Rainbow Bridge Side - Non-Smoking",
+                    "Executive 27th and 28th Floor Deluxe Twin Room - Rainbow Bridge Side - Non-Smoking",
+                    "Executive 25th and 26th Floor Deluxe Twin Room - Rainbow Bridge Side - Non-Smoking",
+                    "Deluxe Triple Room - Non-Smoking",
+                    "Deluxe Triple Room with Bay View - Non-Smoking",
+                    "Deluxe Triple Room with Bay View - Rainbow Bridge Side - Non-Smoking",
+                    "Executive 25th and 26th Floor Deluxe Triple Room - Non-Smoking",
+                    "Executive 25th and 26th Floor Deluxe Triple Room - Rainbow Bridge Side - Non-Smoking",
+                    "Deluxe Connecting Room - Non-Smoking",
+                    "Family Room - Rainbow Bridge Side - Non-Smoking"
+                ],
+                "room_price": [
+                    2836416,
+                    3432063,
+                    4023798,
+                    3432063,
+                    4023798,
+                    3448425,
+                    4019987,
+                    3734206,
+                    3448425,
+                    4019987,
+                    3734206,
+                    4082971,
+                    4674706,
+                    4096196,
+                    4667758,
+                    5746187,
+                    6357483,
+                    6051835,
+                    5917350,
+                    5917350,
+                    5917350,
+                    6726054,
+                    6726054,
+                    6948403,
+                    6948403
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/117744158.jpg?k=46dadd2cf1365dc1bae86a62de7803cb4cf63e57421bf0075e36b1ea83012cdf&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/65617195.jpg?k=7c58343192e424367b37f626d35654abe8f05774b99320e1ce217ed944a002f2&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/133310051.jpg?k=fde5d41f4ee0375a64c0fcb7337fe050f8c324ef87232778350d51ba5ccec134&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/552258238.jpg?k=29072adff86d48d4c9b0525ca3cce3bb790c46683142da43b1246f525c901587&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/552258817.jpg?k=11d19ab0f959d9c912736c32b1b60286a058cb2fe5abb28ce209377cbc6ba25d&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/189071101.jpg?k=b3737942bd819a9afa98f8d11bcb9237fccaec3f684db189c2e2ff87cbfb2cb8&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/552258916.jpg?k=953a1e3777c3fe6376a70952de213cd79891021495e0dc741aa09fda5af91001&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/316055712.jpg?k=fd55e429d4d142e9459aaf1295e24bf1565e3fd5aeb1f5051379d6a902123cf8&o=&hp=1"
+            ]
+        },
+        {
+            "id": 25,
+            "title": "Keio Plaza Hotel Tokyo Premier Grand",
+            "location": "160-8330 Tokyo-to, Shinjuku-ku, Nishishinjuku 2-2-1, Japan",
+            "description": "Offering a seasonal outdoor pool and spa centre, Keio Plaza Hotel Tokyo Premier Grand is set in Tokyo in the Tokyo Prefecture Region, 1.5 km from Shinjuku Gyoen National Garden. Guests can enjoy the on-site bar. Opened in December, 2016, the new Club Floor \"Premier Grand\" welcomes guests with green tea and hand towels. Exclusive service such as private check-in and check-out is available on the 45th floor. Premier Grand features panoramic views of Tokyo.\n\nEvery room at this hotel is air conditioned and comes with a flat-screen TV. Some rooms include a seating area to relax in after a busy day. You will find a coffee machine and a kettle in the room. Each room is fitted with a private bathroom with a bath and bidet, with bathrobes and slippers provided. For your comfort, you will find free toiletries and a hairdryer.\n\nThere is free shuttle service, a 24-hour front desk and hairdresser's at the property.\n\nMeiji Jingu Shrine is 1.8 km from Keio Plaza Hotel Tokyo Premier Gran, while Meiji Jingu Stadium is 2.7 km from the property. The nearest airport is Tokyo Haneda International Airport, 16 km from Keio Plaza Hotel Tokyo Premier Grand.",
+            "rating": 9.1,
+            "most_popular_facilities": [
+                "Outdoor swimming pool",
+                "Non-smoking rooms",
+                "Private parking",
+                "Fitness centre",
+                "Facilities for disabled guests",
+                "Room service",
+                "Free WiFi",
+                "2 restaurants",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Club Floor \"Premier Grand\" Superior King Room with Club Lounge Access - Non-Smoking",
+                    "Club Floor \"Premier Grand\" Deluxe King Room with Club Lounge Access - Non-Smoking"
+                ],
+                "room_price": [
+                    9436379,
+                    8971285
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/102613172.jpg?k=9768235418faf6b5451571659c205ea4c5497d6bffe40c1ee254103bf0204c6a&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/254108801.jpg?k=05c6556a4a0b783fbea0dac217fd71031af5cee842cfb26a55ec1595b22a41ce&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/102613164.jpg?k=13c640c5cb3240233f4cfc93567da6626ff883c4ba92baca730ff18e6368f7be&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/103737460.jpg?k=7b365e2251c0e9744a901b01a98dbbcbaede2c14e1d969a6a15647c0e25fb671&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/102613124.jpg?k=680140143183a07b1eac08b3fa3e16d59d9112a22efc145b2e4f24d3c6202b2e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/254108460.jpg?k=390a4bc01056711a3021b70806e67919ffd569a11c0e8606310085eff6ac5ae8&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/102613176.jpg?k=e8c0ed37e8921337edec35e89c3a7c3b3fc3011f28d1365ca884f0d11637f12b&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/102613177.jpg?k=92904b297ea5fd3343cfc270d979d4de87d499686e157ad907090a6224e8d12d&o=&hp=1"
+            ]
+        },
+        {
+            "id": 26,
+            "title": "Imperial Hotel Tokyo",
+            "location": "100-8558 Tokyo-to, Chiyoda-ku Uchisaiwai-cho 1-1-1, Japan",
+            "description": "Situated in a central location with 3 stations within a 5-minute walk, Imperial Hotel Tokyo is a prestigious hotel renowned for providing first-class hospitality for over a century since 1890. It features a fitness centre, an indoor swimming pool and a beauty massage salon. Free Wi-Fi is provided throughout the property.\n\nThe nearby Ginza, Hibiya and Yurakucho stations offer direct access to various locations in Tokyo. Imperial Palace and Ginza area are both a 5-minute walk away, while Tokyo International Forum is a 10-minute walk from the hotel. Popular Tsukiji Fish Market is just a 7-minute drive or taxi ride away. Direct airport limousine buses to/from Narita and Haneda airports are available at an extra charge.\n\nRooms at Tokyo Imperial Hotel are elegantly decorated, and come with a flat-screen TV with satellite channels, a small fridge and a seating area. Free tea set and a newspaper are offered. The en suite bathroom includes toiletries and bathrobes.\n\nGuests can enjoy a workout at the fitness gym or in the pool at an extra charge. A variety of shops are available on site, including hair salons, a flower shop and a newsstand. Chargeable in-room massages can be arranged.\n\nThe Imperial Hotel offers wide range of dining options with 13 restaurants and 3 bars, like Les Saisons French restaurant and Kamon Teppanyaki restaurant. The Imperial Viking Sal serves a lavish buffet, while cocktails and whiskeys can be enjoyed at Old Imperial Bar.",
+            "rating": 9.0,
+            "most_popular_facilities": [
+                "Indoor swimming pool",
+                "Non-smoking rooms",
+                "Private parking",
+                "Facilities for disabled guests",
+                "Spa and wellness centre",
+                "Room service",
+                "Fitness centre",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Tower Building Service Apartment Studio Twin - No Daily Cleaning",
+                    "Deluxe Double",
+                    "Deluxe Twin",
+                    "Superior Twin",
+                    "Imperial Floor Superior Double",
+                    "Deluxe Park View Double",
+                    "Deluxe Park View Twin",
+                    "Imperial Floor Deluxe Twin",
+                    "Junior Suite Double",
+                    "Junior Suite Twin",
+                    "Imperial Floor Deluxe Park View Double",
+                    "Imperial Floor Deluxe Park View Twin",
+                    "Imperial Floor Junior Suite Twin",
+                    "Imperial Floor Junior Suite Double",
+                    "Junior Suite Park View Twin",
+                    "Imperial Floor Deluxe Suite Double",
+                    "Park View Corner Suite Double",
+                    "Park View Corner Suite Twin"
+                ],
+                "room_price": [
+                    4355487,
+                    7333479,
+                    8227806,
+                    7780642,
+                    7333479,
+                    8227806,
+                    7926987,
+                    9268477,
+                    7780642,
+                    7443044,
+                    8507718,
+                    6699320,
+                    8507718,
+                    9572393,
+                    9040056,
+                    10249913,
+                    11314588,
+                    10782250
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/349607880.jpg?k=598901feedf6dd4bbe8c74e6b50efccfc5f1a216458987f78f6dfda63733038d&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/399989574.jpg?k=09fc4917ccc4235bf88a3722424a04d088c0b6c6a06cbd2878a10f2f89b6cdaa&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/429707891.jpg?k=637bda1360367dc5452d24c55448fc2883e55eec10c700de3c44408250bc472e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/429701032.jpg?k=af7f704efe082a85a4dbcc7455e78cea49e5984923f44afc4ac15bd2da65e43e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/429700992.jpg?k=dabbba268d7971531391f7a34253e096abc220c0aab4ba04a3ea05dc577cde72&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/197952681.jpg?k=6e28c9604d56d6316fdfe63496413d456f1daa3e3bf7dc5d5b7695c6a69c0268&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/487563454.jpg?k=e35ef6c129e3a0feec64f48a90b8d550a2162a57273278c0177d1734cb09195a&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/487563079.jpg?k=9053e481473a7bf889934d31dcb9f12a30f3e0f30eaf5d3bf24f85c7c1b69722&o=&hp=1"
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Oakwood Premier Tokyo",
+            "location": "100-0005 Tokyo-to, Chiyoda-ku, Marunouchi 1-8-2, Japan",
+            "description": "Oakwood Premier Tokyo is a luxury serviced apartment with hotel-like services, located at just a 2-minute walk from JR Tokyo Station\u2019s Yaesu North Exit. Located on the 6-19th floors of a 19-storey building, this property is designed to offer a getaway in the centre of Tokyo. There is a 24-hour front desk on site.\n\nAll apartments are fully furnished and include a fully-equipped kitchen that has a refrigerator, microwave, oven, coffee machine and electric kettle. Kitchenware is also included. There is a flat-screen TV with cable and satellite channels in addition to a DVD player in the apartments. A washing machine and dryer are also provided for guests' convenience. Private bathrooms include a bathrobe, hairdryer and free toiletries.\n\nThere is a fitness centre, residence lounge and meeting space at the property. The on-site concierge service offers restaurant and taxi reservation services in addition to photo copy and fax business services. Dry cleaning, ironing and laundry services are provided for an additional fee. There is a parking garage at this property.\n\nThere are many restaurants, cafes and dining options within a 5-minute walking distance from Oakwood Premier Tokyo. There are convenience stores within a 3-minute walk from the property.\n\nTokyo International Forum is a 12-minute walk while the popular Ginza shopping district is a 18-minute walk away from Tokyo Oakwood Premier. Both the Imperial Palace Gardens and Tsukiji Market are 21-minutes by train from Oakwood Premier Tokyo. Guests can access Haneda Airport and Narita International Airport by taking the Airport Limousine from the ground floor for 30-minutes and 60-minutes, respectively.\n\nPlease note that the room cleaning is 3 times a week during your stay.",
+            "rating": 9.0,
+            "most_popular_facilities": [
+                "Non-smoking rooms",
+                "Private parking",
+                "Facilities for disabled guests",
+                "Fitness centre",
+                "Free WiFi",
+                "Family rooms",
+                "24-hour front desk",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Superior Studio",
+                    "Superior Studio",
+                    "Deluxe Studio",
+                    "Executive Studio",
+                    "Superior One-Bedroom Suite",
+                    "Deluxe One-Bedroom Suite",
+                    "Executive One-Bedroom Suite"
+                ],
+                "room_price": [
+                    7794116,
+                    9169549,
+                    7361028,
+                    8660033,
+                    7794116,
+                    9169549,
+                    7361028
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/253998043.jpg?k=fcb91c5e5e1bb0c403593e424a6d3b8dbb6cc3f010bf926dba0d565a1a049c54&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/253998054.jpg?k=3b996abd68f812376d2bea8e57bb8f5918e25228677a88d17db49e444c521d91&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/264135641.jpg?k=28fe88d1210b3504c00c380f2be1509d259e24562cffaea3538ee3b57333cebd&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/254835786.jpg?k=0379a0d43ef926b5679fad5e80151aef42b5f45d6005ecda38c4c8ef2b52ad5e&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/61803173.jpg?k=27bf7de88a2ed6e86a93fb785f9801880f49368aefd9ba99e13f4b5c421eceb5&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/254834013.jpg?k=ba5bd68e448f93a71c3328fdb067588ddd085c3223bf60391802f7603dbb3e52&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/266315949.jpg?k=9ccb009a8ac1cfe4aedb1c78424982ee2a5535ee74c41ecb381d98bba6b0bf13&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/500072521.jpg?k=eaf66a87af8d8769796652a0d29da543850d6f77d4e8e3567ca5b6d23533c852&o=&hp=1"
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Royal Park Hotel",
+            "location": "103-8520 Tokyo-to, Chuo-ku Nihonbashi Kakigara-cho 2-1-1, Japan",
+            "description": "Directly connected to Suitengumae Subway Station, Royal Park Hotel features an entirely non-smoking hotel with 9 elegant restaurants/bars with a variety of cuisines. A designated smoking area is located on the 2nd floor of the hotel.\n\nModern rooms at Royal Park Hotel are air-conditioned and equipped with free Wi-Fi, a flat-screen TV and a minibar. The private bathrooms feature a bathtub.\n\nHigh quality steaks and seafood are served at the Sumida Teppanyaki restaurant, while Genjiko offers traditional Japanese dishes. Guests can also enjoy Cantonese Chinese dishes at Keikaen.\n\nThe Hotel Royal Park is a 10-minute subway ride from Tokyo Sky Tree, and within a 20 minute subway ride from Asakusa, Ginza and Akihabara shopping areas. Tokyo City Air Terminal next door is an arrival and departing point for the Airport Limousine Bus, which leaves every 10-15 minutes to Narita Airport and every 20-30 minutes to Haneda Airport.",
+            "rating": 8.4,
+            "most_popular_facilities": [
+                "Non-smoking rooms",
+                "Private parking",
+                "Facilities for disabled guests",
+                "Spa and wellness centre",
+                "Room service",
+                "Fitness centre",
+                "Tea/coffee maker in all rooms",
+                "Bar",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Standard Double Room",
+                    "Standard Twin Room",
+                    "Deluxe Double Room",
+                    "Deluxe Twin Room",
+                    "Standard Double Room with Complimentary Breakfast - Executive Floor",
+                    "Standard Twin Room with Complimentary Breakfast - Executive Floor",
+                    "Deluxe Double Room with Complimentary Breakfast - Executive Floor",
+                    "Deluxe Twin Room with Complimentary Breakfast - Executive Floor",
+                    "Suite with Complimentary Breakfast - Executive Floor",
+                    "Standard Triple Room",
+                    "Deluxe Triple Room",
+                    "Triple Room - Executive Floor",
+                    "Single Room",
+                    "Single Room with Complimentary Breakfast - Executive Floor"
+                ],
+                "room_price": [
+                    3423260,
+                    4034557,
+                    3097235,
+                    3402884,
+                    3423260,
+                    4034557,
+                    3097235,
+                    3402884,
+                    4319828,
+                    4931125,
+                    3993803,
+                    4299452,
+                    4319828,
+                    4931125
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/167451663.jpg?k=bb6759729ee68f10f51e9dacd3abbc37a2bcabd04103831e6ca995d6c4febcb0&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/250696925.jpg?k=ecd6058e8ac86400bfa9ab239fb9e2bef37f8564ac14402fccf032771b097c03&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/459833823.jpg?k=80277e2d56952922b4bd68cde21f2ace2ce5ea8ed5fe297713d0d6cb0f63117a&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/459832927.jpg?k=859fe111e977e4ff318c5e869d7f6ae5e64ee5e059617f50b5bab0d715f69380&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/459837602.jpg?k=6e7fb77bc686feef8dcd9cf2ef52712ca2a8913f360e6df98b4da4e2c116cac3&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/451510196.jpg?k=efd0a86317614d32220ff5be8f019933ff802fd61bed5a3434509d52f3d7ea33&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/436715665.jpg?k=57ed81630db01de4f0f8c86b65f4473331b8e92bba6427a38c354db19b946b85&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/436719305.jpg?k=3d3ead5089acf2ab5f1b8f14a96696e9e99d61803c64d5eba2cd068c33973251&o=&hp=1"
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Grand Prince Hotel Shin Takanawa",
+            "location": "108-8612 Tokyo-to, Minato-ku, Takanawa 3-13-1, Japan",
+            "description": "Grand Prince Hotel Shin Takanawa offers spacious rooms with a balcony beside a 5-acre Japanese garden. A 5-minute walk from Shinagawa Shinkansen Station, it features several restaurants. The property features the Club Lounge, where guests with access can relax and enjoy light meals. Free WiFi is available throughout the property.\n\nGuests at Grand Prince Hotel Shin Takanawa stay in contemporary air-conditioned rooms with free WiFi access. The en suite bathroom has a bathtub and shower, and an electric kettle is provided.\n\nFrom nearby Shinagawa Station, Tokyo Station is a 12-minute train ride. The Shinjuku, Harajuku and Shibuya areas can all be reached within 20 minutes by train, while Tokyo Big Sight Convention Centre is 11 km away and the Roppongi area is 5.5 km away.\n\nIn mid-summer, 2 outdoor pools are available for an extra charge. A concierge provides sightseeing assistance. There is also a business room on site.\n\nA buffet-style breakfast is served at SLOPE SIDE DINER ZAKURO Buffet&Caf\u00e9. Guests can enjoy Japanese cuisine at SHIMIZU Japanese Restaurant and SHUMEI Japanese-style Room. There is also a Chinese restaurant and bar at the property.",
+            "rating": 8.2,
+            "most_popular_facilities": [
+                "2 swimming pools",
+                "Non-smoking rooms",
+                "Private parking",
+                "Fitness centre",
+                "4 restaurants",
+                "24-hour front desk",
+                "Lift",
+                "Bar",
+                "Daily housekeeping"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Standard Twin Room - Non-Smoking",
+                    "Superior Twin Room - Non-Smoking",
+                    "[Tokyo Tower View] Superior King Room - Non-Smoking",
+                    "[Tokyo Tower View] Superior Twin Room - Non-Smoking",
+                    "Club King Room with Lounge Access - Non-Smoking",
+                    "Club Twin Room with Lounge Access - Non-Smoking",
+                    "Club Junior Suite King Room with Lounge Access - Non-Smoking",
+                    "Club Junior Suite Twin Room with Lounge Access - Non-Smoking",
+                    "Standard Triple Room Non-Smoking",
+                    "Superior Triple Room - Non-Smoking",
+                    "Standard Quadruple Room - Non-Smoking"
+                ],
+                "room_price": [
+                    3217212,
+                    3787756,
+                    3502484,
+                    3960060,
+                    4530603,
+                    4245332,
+                    4454802,
+                    5025346,
+                    4454721,
+                    4739993,
+                    4454802
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180287902.jpg?k=8092cf8d0ec1b21c0aa0eae871694f175eca5e1f8429bc3bc78483230e56c276&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/170703820.jpg?k=d185b7e1900ae7b492dcfb428a13158721d79baad0ac06fed9476000518434a6&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/247118161.jpg?k=7a8f2468ebd792a952a0a0a04a4b64563162175d48f3473347c588cf114c9018&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/148118255.jpg?k=e14a93bfb27b371fce48243735cc44d9759eaddb19de35fcd58d43e9ba2c3ac6&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/445797535.jpg?k=d460541e2e2513368862c60d0fe159b2c1116a1be60c2a5ca6fa5d74d13f224c&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/352789195.jpg?k=8ba167b098f0c70a082380c42cdfeb06b80b51d6313b56a42f625bb5594b6110&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/393177125.jpg?k=f5100acbb5e03e104940b75286e41d1f2fc68f6a21ed0c5fb0ea705bab6b81d1&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/75752171.jpg?k=b5d5553cd4ec87f7d09fc334b70ca44491e357ba8a44cc41e59b4ba0600d0792&o=&hp=1"
+            ]
+        },
+        {
+            "id": 30,
+            "title": "Mitsui Garden Hotel Roppongi Tokyo Premier",
+            "location": "106-0032 Tokyo-to, Minato-ku Roppongi 3-15-17, Japan",
+            "description": "Set in Tokyo, within 400 metres of Sony Music Roppongi Museum and 500 metres of Asahi Shrine, Mitsui Garden Hotel Roppongi Tokyo Premier provides free WiFi throughout the property. The property is located 1.1 km from Mori Art Museum, 1.1 km from Juban Inari Shrine and 1.3 km from The Former Residence of Naoya Shiga. The accommodation offers a 24-hour front desk, luggage storage space and currency exchange for guests.\n\nThe units will provide guests with a fridge.\n\nPopular points of interest near the hotel include Sen-oku Hakukokan Museum, Izumo Shrine Tokyo Bunshi and Roppongi Hills. The nearest airport is Tokyo Haneda International Airport, 22 km from Mitsui Garden Hotel Roppongi Tokyo.",
+            "rating": 8.7,
+            "most_popular_facilities": [
+                "Non-smoking rooms",
+                "Fitness centre",
+                "Free WiFi",
+                "Restaurant",
+                "24-hour front desk",
+                "Lift",
+                "Daily housekeeping",
+                "Heating",
+                "Luggage storage",
+                "Very good breakfast"
+            ],
+            "rooms_info": {
+                "room_type": [
+                    "Superior Hollywood Twin Room with Sofa - Non-Smoking",
+                    "Superior Hollywood Twin Room - Non-Smoking",
+                    "Standard Room - Non-Smoking",
+                    "Room Selected at Check-In - Non-Smoking",
+                    "Standard Queen Room with Sofa - Non-Smoking",
+                    "Standard Queen Room - Non-Smoking",
+                    "Superior King Room - Non-Smoking",
+                    "Deluxe King Room - Non-Smoking",
+                    "Deluxe Hollywood Twin Room - Non-Smoking",
+                    "Superior Wide King Room"
+                ],
+                "room_price": [
+                    4489361,
+                    5106648,
+                    4798005,
+                    4489361,
+                    5106648,
+                    4798005,
+                    4566384,
+                    5292605,
+                    4929495,
+                    5109949
+                ]
+            },
+            "image_url": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/238360436.jpg?k=442a0e5a27d644bc5484c0c69a490aa858abb56ce5f0a96e669f61cf748a1353&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/501725021.jpg?k=cdeba99e70558de5fe7b1c9504395100c419225febacbbb880cb564d417398d3&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/238500929.jpg?k=7a26adce031d5e6d5ea19f2bb854c64db21d9c290403a824b5843ffe80be79e9&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/238495994.jpg?k=165acb3fbbac4fcb4ebde13daf1011f616e2f97ed5a71f21f21191bf59ca0597&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/501725537.jpg?k=01fc1e8182d23b591f0e46bbcfb97284c670169a3cd1dfd6747fed0853613771&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/501725549.jpg?k=bf0653612c292f7cbd1bbfdf0aa3bbd859c02a302d379e9c52169a3b69e03ea8&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/431012201.jpg?k=889fc44c63318d5546318178ab3f19a5a135fb6624ee742dcf4d7490f91ed3b9&o=&hp=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max300/238352365.jpg?k=2c8195b0cc98f0f2c2a3bbea85b51dbb07fd45726eb9bc65d59442e9d757d28a&o=&hp=1"
+            ]
+        }
+    ]
+}

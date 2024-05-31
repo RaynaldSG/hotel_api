@@ -1,0 +1,244 @@
+{
+    "hotel": [
+        {
+            "id": 1,
+            "name": "Yogyakarta Marriott Hotel",
+            "location": "Yogyakarta",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/467524871.jpg?k=23f4ddf9e9e1bc2d6ce41cfb2b1451b39ad69b1d25ce9b76e5e913f8361103dd&o=",
+            "review_score": 9.1,
+            "country": "Indonesia"
+        },
+        {
+            "id": 2,
+            "name": "Hyatt Regency Yogyakarta",
+            "location": "Yogyakarta",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/486467650.jpg?k=8d4871099d78988a20e4ffa2b58f9f8a332a89c438ad1cfb88751838165343c4&o=",
+            "review_score": 8.9,
+            "country": "Indonesia"
+        },
+        {
+            "id": 3,
+            "name": "Melia Purosani Yogyakarta",
+            "location": "Gondomanan, Yogyakarta",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/354912696.jpg?k=751970a239d37ff827d6e015fa7d775fa19e4a9e10b6cf6967bb9b124d170e35&o=",
+            "review_score": 8.4,
+            "country": "Indonesia"
+        },
+        {
+            "id": 4,
+            "name": "Jambuluwuk Malioboro Hotel Yogyakarta",
+            "location": "Pakualaman, Yogyakarta",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/105925471.jpg?k=9b163b75a92d217ccba0f0047598e3bd91c92f7f67ea933c0db531a525bab6de&o=",
+            "review_score": 7.9,
+            "country": "Indonesia"
+        },
+        {
+            "id": 5,
+            "name": "Grand Mercure Yogyakarta Adi Sucipto",
+            "location": "Gondokusuman, Yogyakarta",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/365102252.jpg?k=840b7f0f7f8e7abe7d79844de4ee99171edc52cd788f9d5b7e934643a380a512&o=",
+            "review_score": 7.5,
+            "country": "Indonesia"
+        },
+        {
+            "id": 6,
+            "name": "The Phoenix Hotel Yogyakarta - Handwritten Collection",
+            "location": "Jetis, Yogyakarta",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/31386929.jpg?k=e9f061d50c308dcd10094913f654f2b49d9f00b29e48caacf04588cb1d527f0d&o=",
+            "review_score": 8.4,
+            "country": "Indonesia"
+        },
+        {
+            "id": 7,
+            "name": "Royal Ambarrukmo Yogyakarta",
+            "location": "Catur Tunggal, Yogyakarta",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/77158038.jpg?k=f8447bd0c5ccce6574ceed2c9ae6cce0cfb89f52162e6cae7af92dca596bd9a6&o=",
+            "review_score": 8.9,
+            "country": "Indonesia"
+        },
+        {
+            "id": 8,
+            "name": "Sheraton Mustika Yogyakarta Resort and Spa",
+            "location": "Yogyakarta",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/338921049.jpg?k=869a559c8e883923fcce60b715d9d77567dde08a9e8c05d3a4e5664238d29271&o=",
+            "review_score": 7.6,
+            "country": "Indonesia"
+        },
+        {
+            "id": 9,
+            "name": "Amaranta Prambanan Yogyakarta",
+            "location": "Yogyakarta",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/355357459.jpg?k=a38ed630f1a50272171893633f250b7b4f2a5711f449060df64027d13c22eab0&o=",
+            "review_score": 8.7,
+            "country": "Indonesia"
+        },
+        {
+            "id": 10,
+            "name": "Garrya Bianti Yogyakarta",
+            "location": "Yogyakarta",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/497025972.jpg?k=514b4a0eb136a9a62ece475945c164d061b1dc8f7f1bc5ff046d60abf172b653&o=",
+            "review_score": 9.0,
+            "country": "Indonesia"
+        },
+        {
+            "id": 11,
+            "name": "The Clan Hotel Singapore by Far East Hospitality",
+            "location": "Shenton Way, Singapore",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/280300078.jpg?k=70f7065e4884598166980faaa011077b30fb8aaca21f90f4a6c069c80f66d632&o=",
+            "review_score": 8.9,
+            "country": "Singapore"
+        },
+        {
+            "id": 12,
+            "name": "Hilton Singapore Orchard",
+            "location": "Orchard, Singapore",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/498851467.jpg?k=fc97c7423a6d65b148d64feac197c08c39e4fbbd7636cd29ee323db2a74f7e37&o=",
+            "review_score": 8.5,
+            "country": "Singapore"
+        },
+        {
+            "id": 13,
+            "name": "The Fullerton Hotel Singapore",
+            "location": "Marina Bay, Singapore",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/237415834.jpg?k=cf815e28070c3722cd0f7df1396446417ff6e6f2df0ce58f2b5ff221dfdae6fc&o=",
+            "review_score": 9.0,
+            "country": "Singapore"
+        },
+        {
+            "id": 14,
+            "name": "Swissotel The Stamford",
+            "location": "City Hall, Singapore",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/491354639.jpg?k=4ac3f201ec72fb5342c6c519dae531ab2ffd1727a8e230222c896ba76b224416&o=",
+            "review_score": 8.7,
+            "country": "Singapore"
+        },
+        {
+            "id": 15,
+            "name": "Mondrian Singapore Duxton",
+            "location": "Chinatown, Singapore",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/450259578.jpg?k=4baebe6f4999a615b9de1537d74856cb97ce96d308cec5778aa73d669a907619&o=",
+            "review_score": 8.8,
+            "country": "Singapore"
+        },
+        {
+            "id": 16,
+            "name": "PARKROYAL COLLECTION Pickering, Singapore",
+            "location": "Chinatown, Singapore",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/318936829.jpg?k=41075e31eb9d7377be08368d0d52d22cb3ccc02b06d9047457a96dbbb58fbdd0&o=",
+            "review_score": 8.9,
+            "country": "Singapore"
+        },
+        {
+            "id": 17,
+            "name": "Fairmont Singapore",
+            "location": "City Hall, Singapore",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/526569733.jpg?k=4486b492456d020624590526c49a6951516be66b3a73e2aa8c87cac56a0e8f43&o=",
+            "review_score": 8.7,
+            "country": "Singapore"
+        },
+        {
+            "id": 18,
+            "name": "Marina Bay Sands",
+            "location": "Marina Bay, Singapore",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/297612456.jpg?k=44977544783a75ce061805cb73ddf426d5eddcda7489a230b03998ae44d9f3e4&o=",
+            "review_score": 9.2,
+            "country": "Singapore"
+        },
+        {
+            "id": 19,
+            "name": "Pan Pacific Singapore",
+            "location": "Marina Bay, Singapore",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/85960609.jpg?k=12f4e89050495cb84f81e37ac261d77e9db6e6f8499ce955a6048cb9a35c9bf1&o=",
+            "review_score": 8.5,
+            "country": "Singapore"
+        },
+        {
+            "id": 20,
+            "name": "The Ritz-Carlton, Millenia Singapore",
+            "location": "Marina Bay, Singapore",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/439545542.jpg?k=9bff2e26e7f8154d12dc20f43316fc6a63496e309677eac95ee3c4d885cc82fb&o=",
+            "review_score": 9.0,
+            "country": "Singapore"
+        },
+        {
+            "id": 21,
+            "name": "Mandarin Oriental, Tokyo",
+            "location": "Chuo Ward, Tokyo",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/233112283.jpg?k=ab9378691e357066d755de1f4666359f1ce4cb8cafc44018aec976ee52424e41&o=",
+            "review_score": 9.2,
+            "country": "Japan"
+        },
+        {
+            "id": 22,
+            "name": "Grand Prince Hotel Takanawa",
+            "location": "Minato, Tokyo",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/171407564.jpg?k=3b282248f7af67f87214f17703356331d789c9219a7cb9faa0000a3254ae5413&o=",
+            "review_score": 8.3,
+            "country": "Japan"
+        },
+        {
+            "id": 23,
+            "name": "The Prince Park Tower Tokyo - Preferred Hotels & Resorts, LVX Collection",
+            "location": "Minato, Tokyo",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/371532953.jpg?k=e8256924eaf8f77d6c78caaea1aa662432247d79de61c56353ede9b2a9680dd2&o=",
+            "review_score": 8.9,
+            "country": "Japan"
+        },
+        {
+            "id": 24,
+            "name": "Grand Nikko Tokyo Daiba",
+            "location": "Minato, Tokyo",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/117744158.jpg?k=46dadd2cf1365dc1bae86a62de7803cb4cf63e57421bf0075e36b1ea83012cdf&o=",
+            "review_score": 8.9,
+            "country": "Japan"
+        },
+        {
+            "id": 25,
+            "name": "Keio Plaza Hotel Tokyo Premier Grand",
+            "location": "Shinjuku Ward, Tokyo",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/102613172.jpg?k=9768235418faf6b5451571659c205ea4c5497d6bffe40c1ee254103bf0204c6a&o=",
+            "review_score": 9.1,
+            "country": "Japan"
+        },
+        {
+            "id": 26,
+            "name": "Imperial Hotel Tokyo",
+            "location": "Chiyoda, Tokyo",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/349607880.jpg?k=598901feedf6dd4bbe8c74e6b50efccfc5f1a216458987f78f6dfda63733038d&o=",
+            "review_score": 9.0,
+            "country": "Japan"
+        },
+        {
+            "id": 27,
+            "name": "Oakwood Premier Tokyo",
+            "location": "Chiyoda, Tokyo",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/253998043.jpg?k=fcb91c5e5e1bb0c403593e424a6d3b8dbb6cc3f010bf926dba0d565a1a049c54&o=",
+            "review_score": 9.0,
+            "country": "Japan"
+        },
+        {
+            "id": 28,
+            "name": "Royal Park Hotel",
+            "location": "Chuo Ward, Tokyo",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/167451663.jpg?k=bb6759729ee68f10f51e9dacd3abbc37a2bcabd04103831e6ca995d6c4febcb0&o=",
+            "review_score": 8.4,
+            "country": "Japan"
+        },
+        {
+            "id": 29,
+            "name": "Grand Prince Hotel Shin Takanawa",
+            "location": "Minato, Tokyo",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/180287902.jpg?k=8092cf8d0ec1b21c0aa0eae871694f175eca5e1f8429bc3bc78483230e56c276&o=",
+            "review_score": 8.2,
+            "country": "Japan"
+        },
+        {
+            "id": 30,
+            "name": "Mitsui Garden Hotel Roppongi Tokyo Premier",
+            "location": "Minato, Tokyo",
+            "image_url": "https://cf.bstatic.com/xdata/images/hotel/square240/238360436.jpg?k=442a0e5a27d644bc5484c0c69a490aa858abb56ce5f0a96e669f61cf748a1353&o=",
+            "review_score": 8.7,
+            "country": "Japan"
+        }
+    ]
+}
